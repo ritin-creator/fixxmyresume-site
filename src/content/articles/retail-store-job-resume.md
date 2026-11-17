@@ -1,13 +1,30 @@
 ---
-title: "Resume for Retail and Store Jobs in India (Sales Associate to Store Manager)"
-seoTitle: "Retail Store Job Resume for India: Associate to Manager"
-description: "Resume examples for retail jobs in India: sales associate, cashier, store supervisor and store manager, built on sales, footfall, inventory and team numbers."
-answer: "A retail resume should show what you sold and how well: daily or monthly sales, average bill value, conversion, customer feedback, inventory accuracy and shrinkage, plus team size for supervisors and managers. Mention the store format (supermarket, apparel, electronics, pharmacy), billing systems used, languages and shift flexibility."
+title: Resume for Retail and Store Jobs in India (Sales Associate to Store Manager)
+seoTitle: 'Retail Store Job Resume for India: Associate to Manager'
+description: 'Resume examples for retail jobs in India: sales associate, cashier, store supervisor and store manager, built on sales, footfall, inventory and team numbers.'
+answer: 'A retail resume should show what you sold and how well: daily or monthly sales, average bill value, conversion, customer feedback, inventory accuracy and shrinkage, plus team size for supervisors and managers. Mention the store format (supermarket, apparel, electronics, pharmacy), billing systems used, languages and shift flexibility.'
 region: india
 category: examples-by-role
 format: examples
-keywords: ["retail resume", "store manager resume", "sales associate resume", "retail job resume India", "cashier resume"]
+keywords:
+- retail resume
+- store manager resume
+- sales associate resume
+- retail job resume India
+- cashier resume
 published: 2026-11-17
+faq:
+- q: What should a retail store resume include?
+  a: Sales figures, average bill value, conversion, customer feedback, inventory accuracy and, for supervisors, team size and store results.
+- q: Do I need a resume for a retail job?
+  a: Larger chains and malls usually ask for one. A one-page resume with your experience and numbers helps you stand out.
+- q: How do I move from sales associate to store manager?
+  a: Show results, training others, handling stock and cash, and any shift or section you've run.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 ## Bullets by level (fictional)

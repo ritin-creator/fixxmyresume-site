@@ -1,13 +1,30 @@
 ---
-title: "MBA Fresher Resume Example (Marketing, Finance, HR, Operations)"
-seoTitle: "MBA Fresher Resume Example: Marketing, Finance, HR"
-description: "An MBA fresher resume example: presenting your summer internship, live projects, case competitions and specialisation for marketing, finance, HR and operations."
-answer: "An MBA fresher resume should lead with your summer internship and its results, then live projects, case competitions, positions of responsibility and academic achievements, with education including your undergraduate degree and any pre-MBA work experience. Quantify everything, keep to one page, and tailor to your specialisation."
+title: MBA Fresher Resume Example (Marketing, Finance, HR, Operations)
+seoTitle: 'MBA Fresher Resume Example: Marketing, Finance, HR'
+description: 'An MBA fresher resume example: presenting your summer internship, live projects, case competitions and specialisation for marketing, finance, HR and operations.'
+answer: An MBA fresher resume should lead with your summer internship and its results, then live projects, case competitions, positions of responsibility and academic achievements, with education including your undergraduate degree and any pre-MBA work experience. Quantify everything, keep to one page, and tailor to your specialisation.
 region: india
 category: examples-by-role
 format: examples
-keywords: ["MBA fresher resume", "MBA resume format", "MBA marketing resume", "MBA finance resume", "PGDM fresher resume"]
+keywords:
+- MBA fresher resume
+- MBA resume format
+- MBA marketing resume
+- MBA finance resume
+- PGDM fresher resume
 published: 2026-11-17
+faq:
+- q: What should an MBA fresher resume start with?
+  a: Your summer internship and its results, because recruiters for MBA roles look at it first.
+- q: Should I include pre-MBA work experience?
+  a: Yes. Even one or two years of work experience helps; show it with numbers like any other role.
+- q: How do I show my MBA specialisation on a resume?
+  a: Mention it in your summary and education line, and order skills and projects to match it.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## Structure

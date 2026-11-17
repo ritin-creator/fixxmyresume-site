@@ -1,19 +1,35 @@
 ---
-title: "Skills to Put on a Resume: 100+ Hard and Soft Skills by Field"
-seoTitle: "Skills to Put on a Resume: 100+ Hard and Soft Skills"
-description: "A list of hard and soft skills for your resume by field, how many to include, how to pick the right ones from a job description and how to prove them."
-answer: "List 8 to 15 skills that the job description asks for and that you can prove, mostly hard skills like tools, software, languages and methods. Show soft skills such as communication or leadership through results in your experience bullets rather than just listing them."
+title: 'Skills to Put on a Resume: 100+ Hard and Soft Skills by Field'
+seoTitle: 'Skills to Put on a Resume: 100+ Hard and Soft Skills'
+description: A list of hard and soft skills for your resume by field, how many to include, how to pick the right ones from a job description and how to prove them.
+answer: List 8 to 15 skills that the job description asks for and that you can prove, mostly hard skills like tools, software, languages and methods. Show soft skills such as communication or leadership through results in your experience bullets rather than just listing them.
 region: global
 category: resume-writing
 format: list
-keywords: ["skills for resume", "resume skills", "hard skills", "soft skills", "skills list for resume", "key skills"]
+keywords:
+- skills for resume
+- resume skills
+- hard skills
+- soft skills
+- skills list for resume
+- key skills
 published: 2026-11-17
 faq:
-  - q: "How many skills should I put on my resume?"
-    a: "Between 8 and 15 relevant skills is a good range. Group them if you have more, and drop anything you couldn't answer interview questions about."
-  - q: "Should I rate my skills with stars or bars?"
-    a: "No. ATS can't read the graphics, and ratings invite the question of why you're only 3 out of 5. Name the skill, and show the level through your bullets or certifications."
+- q: How many skills should I put on my resume?
+  a: Between 8 and 15 relevant skills is a good range. Group them if you have more, and drop anything you couldn't answer interview questions about.
+- q: Should I rate my skills with stars or bars?
+  a: No. ATS can't read the graphics, and ratings invite the question of why you're only 3 out of 5. Name the skill, and show the level through your bullets or certifications.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
+
+> A fresher in India? See [Skills for a Fresher Resume in India](/articles/skills-for-fresher-resume-india/).
+
 
 ## Hard skills vs soft skills
 
@@ -65,6 +81,42 @@ Turn them into proof:
 | Leadership | Led a 6-person team through a CRM migration, finishing two weeks early |
 | Communication | Presented monthly results to the regional director and 12 branch heads |
 | Problem-solving | Traced repeated billing errors to a tax setting and fixed it, ending 200 monthly complaints |
+
+## More fields
+
+**Banking and financial services:** KYC/AML checks, CASA and loan sourcing, credit appraisal, collections, cross-selling, NISM certifications, branch operations, core banking systems.
+
+**Legal and compliance:** contract drafting and review, legal research, regulatory filings, due diligence, company secretarial work, policy writing, data protection compliance.
+
+**Retail and hospitality:** point-of-sale systems, visual merchandising, stock counts and shrinkage control, upselling, front-office systems, food safety, guest relations.
+
+**Logistics and field operations:** route planning, last-mile delivery, fleet management, dispatch, two-wheeler or commercial driving licence, GPS and delivery apps, cash collection.
+
+**Construction and engineering:** AutoCAD, Revit, STAAD.Pro, site supervision, estimation and BOQ, quality checks, safety compliance, project scheduling.
+
+## Skills by career stage
+
+- **Freshers:** the core tools for the role, one or two skills proven in projects, and certifications. Keep the list short and honest; interviews will test it.
+- **Mid-career:** depth in your main tools, methods (Agile, Lean, A/B testing), domain knowledge and team skills such as mentoring or vendor management.
+- **Senior:** fewer tools, more capabilities: strategy, budgeting and P&L, stakeholder management, hiring and building teams. Show them through results in your experience section.
+
+## Turn a skill into a bullet
+
+A skill listed once in your Skills section is a claim. The same skill used in a bullet with a result is proof, and it counts for more with recruiters and AI matching.
+
+| Skill | Bullet that proves it |
+| --- | --- |
+| Excel (pivot tables) | Built a pivot-table sales report used by 14 branch managers every Monday |
+| Google Ads | Ran search campaigns on a ₹2 lakh monthly budget at a cost per lead 22% below target |
+| Negotiation | Renegotiated three freight contracts, saving ₹9 lakh a year |
+| Python | Automated a daily data pull with Python, saving the team about 5 hours a week |
+
+## Skills to leave out
+
+- **Basic computer skills** such as MS Word or email, unless the job is entry-level and asks for them.
+- **Outdated tools** you haven't used in years.
+- **Skills you can't discuss in an interview.**
+- **Rated skills** with stars, bars or percentages ("Excel 80%").
 
 ## How to format your skills section
 

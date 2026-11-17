@@ -1,13 +1,30 @@
 ---
-title: "LinkedIn Profile Tips for Indian Job Seekers (Freshers and Experienced)"
-seoTitle: "LinkedIn Profile Tips for Job Seekers in India"
-description: "Make your LinkedIn profile work for jobs in India: headline, photo, About, experience, skills, Open to Work, recommendations and reaching recruiters."
-answer: "Use a professional photo, a headline with your target role and key skills, an About section of 3–5 short paragraphs with results, experience entries that match your resume exactly, 10+ relevant skills, and the Open to Work setting for recruiters. Connect with people in your target companies and post occasionally about your work."
+title: LinkedIn Profile Tips for Indian Job Seekers (Freshers and Experienced)
+seoTitle: LinkedIn Profile Tips for Job Seekers in India
+description: 'Make your LinkedIn profile work for jobs in India: headline, photo, About, experience, skills, Open to Work, recommendations and reaching recruiters.'
+answer: Use a professional photo, a headline with your target role and key skills, an About section of 3–5 short paragraphs with results, experience entries that match your resume exactly, 10+ relevant skills, and the Open to Work setting for recruiters. Connect with people in your target companies and post occasionally about your work.
 region: india
 category: job-portals-and-linkedin
 format: how-to
-keywords: ["LinkedIn profile tips", "LinkedIn for freshers India", "LinkedIn headline examples", "LinkedIn profile for job search", "LinkedIn About section"]
+keywords:
+- LinkedIn profile tips
+- LinkedIn for freshers India
+- LinkedIn headline examples
+- LinkedIn profile for job search
+- LinkedIn About section
 published: 2026-11-17
+faq:
+- q: What should my LinkedIn headline say?
+  a: Your role and two or three skills or achievements, for example 'Accounts Executive | GST, TDS, Tally | 3 yrs in manufacturing'. Avoid only 'Looking for opportunities'.
+- q: Should I turn on Open to Work on LinkedIn?
+  a: Yes, if you're job hunting. You can show it to recruiters only, so your current employer doesn't see the green frame.
+- q: How often should I post on LinkedIn while job hunting?
+  a: Even one useful post or comment a week helps recruiters see you're active. Share what you've learned or worked on.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 LinkedIn is where many Indian recruiters search for experienced candidates, and increasingly for freshers too. A complete profile appears in more searches.

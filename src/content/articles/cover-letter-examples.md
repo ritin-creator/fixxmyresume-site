@@ -1,13 +1,33 @@
 ---
-title: "Cover Letter Examples for 6 Common Situations"
-description: "Six short cover letter examples: entry level, experienced professional, career change, internal move, after a gap, and a cold email to a recruiter."
-answer: "Good cover letters are short and specific: one line on why this role, two achievements with numbers, one line connecting them to the job, and a polite close. The six examples below show that pattern for a fresher, an experienced professional, a career changer, an internal move, a return after a gap and a cold email."
+title: Cover Letter Examples for 6 Common Situations
+description: 'Six short cover letter examples: entry level, experienced professional, career change, internal move, after a gap, and a cold email to a recruiter.'
+answer: 'Good cover letters are short and specific: one line on why this role, two achievements with numbers, one line connecting them to the job, and a polite close. The six examples below show that pattern for a fresher, an experienced professional, a career changer, an internal move, a return after a gap and a cold email.'
 region: global
 category: cover-letters
 format: examples
-keywords: ["cover letter examples", "cover letter sample", "cover letter for job", "short cover letter", "email cover letter"]
+keywords:
+- cover letter examples
+- cover letter sample
+- cover letter for job
+- short cover letter
+- email cover letter
 published: 2026-11-17
+faq:
+- q: Can I reuse a cover letter example?
+  a: Use the structure, not the words. Change the opening, the examples and the closing for each job so it reads as written for that employer.
+- q: What's the best way to start a cover letter?
+  a: Name the role and give one specific reason you fit, such as a result or skill that matches the job. Skip 'I am writing to apply for…' if you can.
+- q: How should I end a cover letter?
+  a: Restate your interest in one sentence, say you'd welcome a conversation, and sign off with your name and phone number.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
 ---
+
+> Want the step-by-step method first? Read [How to Write a Cover Letter](/articles/how-to-write-a-cover-letter/). Freshers in India: [Cover Letter for Freshers](/articles/cover-letter-for-freshers-india/).
+
 
 All names and companies below are fictional. Adapt the facts to your own.
 

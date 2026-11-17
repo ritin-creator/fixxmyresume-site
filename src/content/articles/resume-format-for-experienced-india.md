@@ -1,12 +1,31 @@
 ---
-title: "Best Resume Format for Experienced Professionals in India"
-description: "Resume format for experienced professionals in India: structure, length, how to show CTC and notice period, career progression, and what recruiters scan first."
-answer: "Use a reverse-chronological, single-column resume of one to two pages: contact details, a summary with total experience and specialism, key skills, work experience with achievement bullets (most detail for the last 10 years), education and certifications. Share current CTC, expected CTC and notice period in the application or email, not the resume, unless asked."
+title: Best Resume Format for Experienced Professionals in India
+description: 'Resume format for experienced professionals in India: structure, length, how to show CTC and notice period, career progression, and what recruiters scan first.'
+answer: 'Use a reverse-chronological, single-column resume of one to two pages: contact details, a summary with total experience and specialism, key skills, work experience with achievement bullets (most detail for the last 10 years), education and certifications. Share current CTC, expected CTC and notice period in the application or email, not the resume, unless asked.'
 region: india
 category: formats-and-templates
 format: guide
-keywords: ["resume format for experienced", "experienced resume format India", "resume for experienced professionals", "CV format for experienced", "professional resume format"]
+keywords:
+- resume format for experienced
+- experienced resume format India
+- resume for experienced professionals
+- CV format for experienced
+- professional resume format
 published: 2026-11-17
+faq:
+- q: How long should an experienced professional's resume be in India?
+  a: Two pages is normal. Keep the most detail for the last 10 years.
+- q: Should I include my first job if I have 15 years of experience?
+  a: 'Yes, but briefly: title, company and dates, with one line or none.'
+- q: Where do I put certifications on an experienced resume?
+  a: After work experience and education, or in the summary if one is essential for the role.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
 ---
 
 ## Structure

@@ -1,12 +1,31 @@
 ---
-title: "150 Action Verbs for Your Resume (Grouped by What You Did)"
-description: "Strong action verbs to start your resume bullets, grouped by leadership, building, improving, selling, analysing and more, with before-and-after examples."
-answer: "Start every resume bullet with a strong past-tense verb that shows what you did, such as led, built, reduced, launched, negotiated or analysed. Use present tense only for your current job. Match the verb to the result: 'reduced' for cost or time savings, 'grew' for revenue or users, 'led' for teams."
+title: 150 Action Verbs for Your Resume (Grouped by What You Did)
+description: Strong action verbs to start your resume bullets, grouped by leadership, building, improving, selling, analysing and more, with before-and-after examples.
+answer: 'Start every resume bullet with a strong past-tense verb that shows what you did, such as led, built, reduced, launched, negotiated or analysed. Use present tense only for your current job. Match the verb to the result: ''reduced'' for cost or time savings, ''grew'' for revenue or users, ''led'' for teams.'
 region: global
 category: resume-writing
 format: list
-keywords: ["action verbs for resume", "resume action words", "power words resume", "resume verbs", "strong resume words"]
+keywords:
+- action verbs for resume
+- resume action words
+- power words resume
+- resume verbs
+- strong resume words
 published: 2026-11-17
+faq:
+- q: What are action verbs on a resume?
+  a: Action verbs are the first word of a bullet point that says what you did, such as led, built, reduced or negotiated. They make each line about your contribution rather than your duties.
+- q: Should every bullet start with an action verb?
+  a: Yes, as a rule. Starting each bullet with a verb keeps the resume short and scannable. Use past tense for past roles and present tense for your current one.
+- q: Which action verbs should I avoid?
+  a: Weak or vague verbs such as 'helped', 'worked on', 'handled' and 'responsible for'. Replace them with a verb that names the actual action, then add the result.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 A verb at the start of each bullet makes it clear what you did and pushes you towards a result. "Responsible for" and "worked on" do neither.

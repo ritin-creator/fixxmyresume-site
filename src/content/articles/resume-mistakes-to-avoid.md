@@ -1,13 +1,35 @@
 ---
-title: "25 Resume Mistakes That Cost You Interviews"
-description: "The most common resume mistakes in layout, writing, keywords and personal details, why each one hurts, and the quick fix for every one."
-answer: "The costliest resume mistakes are layouts ATS can't read (columns, tables, text in headers), duties instead of achievements, no numbers, a generic summary, missing keywords from the job, inconsistent dates, typos in contact details, and sending the same resume to every job. Each is quick to fix."
+title: 25 Resume Mistakes That Cost You Interviews
+description: The most common resume mistakes in layout, writing, keywords and personal details, why each one hurts, and the quick fix for every one.
+answer: The costliest resume mistakes are layouts ATS can't read (columns, tables, text in headers), duties instead of achievements, no numbers, a generic summary, missing keywords from the job, inconsistent dates, typos in contact details, and sending the same resume to every job. Each is quick to fix.
 region: global
 category: resume-writing
 format: list
-keywords: ["resume mistakes", "common resume mistakes", "resume errors", "what not to put on resume", "resume tips"]
+keywords:
+- resume mistakes
+- common resume mistakes
+- resume errors
+- what not to put on resume
+- resume tips
 published: 2026-11-17
+faq:
+- q: What is the most common resume mistake?
+  a: Listing duties instead of results. 'Responsible for sales' says little; 'Grew monthly sales from ₹8 lakh to ₹11 lakh in 6 months' shows what you achieved.
+- q: Do spelling mistakes really matter on a resume?
+  a: Yes. Recruiters read errors as a lack of care, and ATS keyword searches can miss misspelt skills. Proofread, then ask someone else to read it.
+- q: Is it a mistake to use a fancy resume template?
+  a: Often. Two-column layouts, tables, icons and text boxes can scramble when an ATS reads the file. A clean single-column layout is safer.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
+
+> Applying for jobs in India? See [15 Resume Mistakes Indian Job Seekers Make](/articles/resume-mistakes-indian-job-seekers/) for India-specific habits like biodata details and CTC.
+
 
 Grouped by type, each with the fix.
 

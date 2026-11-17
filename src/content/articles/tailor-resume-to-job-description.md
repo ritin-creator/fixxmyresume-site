@@ -1,12 +1,31 @@
 ---
-title: "How to Tailor Your Resume to a Job Description in 15 Minutes"
-description: "A fast, repeatable process to tailor your resume for each application: what to change, what to leave alone, and a worked example."
-answer: "Keep a master resume with everything, then for each job spend 15 minutes on five changes: match the job title in your summary, reorder skills to lead with the ones the advert names, swap in the bullets most relevant to the role, adopt the advert's wording for skills you have, and cut what doesn't fit. Save a copy named for that job."
+title: How to Tailor Your Resume to a Job Description in 15 Minutes
+description: 'A fast, repeatable process to tailor your resume for each application: what to change, what to leave alone, and a worked example.'
+answer: 'Keep a master resume with everything, then for each job spend 15 minutes on five changes: match the job title in your summary, reorder skills to lead with the ones the advert names, swap in the bullets most relevant to the role, adopt the advert''s wording for skills you have, and cut what doesn''t fit. Save a copy named for that job.'
 region: global
 category: ats-and-keywords
 format: how-to
-keywords: ["tailor resume", "customize resume for job", "tailored resume", "resume for job description", "targeted resume"]
+keywords:
+- tailor resume
+- customize resume for job
+- tailored resume
+- resume for job description
+- targeted resume
 published: 2026-11-17
+faq:
+- q: How do I tailor my resume for each job?
+  a: Read the job description, note the skills and terms it repeats, then adjust your summary, skills order and the bullets you lead with so they match, using only claims that are true for you.
+- q: How long does tailoring a resume take?
+  a: Ten to twenty minutes once you have a strong master resume. Keep one master version with everything, and copy only what fits each job.
+- q: Is it okay to copy words from the job description?
+  a: Use the same terms for skills and tools you genuinely have, because recruiters search for those words. Don't paste whole sentences or claim skills you lack.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
 ---
 
 Tailoring isn't rewriting. It's choosing which true things to show first, in the words this employer uses.

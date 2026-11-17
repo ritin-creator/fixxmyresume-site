@@ -1,20 +1,37 @@
 ---
-title: "How to Write a Resume in 2026: A Step-by-Step Guide"
-description: "Write a resume that gets past ATS and reads well to a recruiter: structure, summary, bullets with numbers, skills, and the checks to run before you send it."
-answer: "Pick a single-column reverse-chronological layout, put your name and contact details at the top, add a two-line summary naming the role you want, then list experience with bullets that start with a verb and show a result, followed by education and skills. Tailor the keywords to each job and send it as a text-based PDF."
+title: 'How to Write a Resume in 2026: A Step-by-Step Guide'
+description: 'Write a resume that gets past ATS and reads well to a recruiter: structure, summary, bullets with numbers, skills, and the checks to run before you send it.'
+answer: Pick a single-column reverse-chronological layout, put your name and contact details at the top, add a two-line summary naming the role you want, then list experience with bullets that start with a verb and show a result, followed by education and skills. Tailor the keywords to each job and send it as a text-based PDF.
 region: global
 category: resume-writing
 format: guide
-keywords: ["how to write a resume", "resume writing", "resume guide", "how to make a resume", "resume structure"]
+keywords:
+- how to write a resume
+- resume writing
+- resume guide
+- how to make a resume
+- resume structure
 published: 2026-11-17
 faq:
-  - q: "What should a resume include?"
-    a: "Your name and contact details, a short summary, work experience with achievements, education, and skills. Add projects, certifications or languages if they help for the role."
-  - q: "How far back should my work history go?"
-    a: "Usually the last 10 to 15 years. Older roles can be cut or listed in one line without bullets."
-  - q: "Should I write my resume in first person?"
-    a: "No. Drop 'I' and 'my' and start bullets with a verb: 'Led a team of six', not 'I led a team of six'."
+- q: What should a resume include?
+  a: Your name and contact details, a short summary, work experience with achievements, education, and skills. Add projects, certifications or languages if they help for the role.
+- q: How far back should my work history go?
+  a: Usually the last 10 to 15 years. Older roles can be cut or listed in one line without bullets.
+- q: Should I write my resume in first person?
+  a: 'No. Drop ''I'' and ''my'' and start bullets with a verb: ''Led a team of six'', not ''I led a team of six''.'
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: 'USAJOBS Help: What to include in a federal resume'
+  url: https://help.usajobs.gov/faq/application/documents/resume/what-to-include
 ---
+
+> Hinglish mein guide chahiye? Padho [Resume Kaise Banaye](/articles/resume-kaise-banaye/). Freshers in India: [Resume Format for Freshers](/articles/resume-format-for-freshers-india/).
+
 
 A resume has one job: get you a conversation. Before a person reads it, software usually sorts it, and when a person does read it, they often skim the first page in under a minute. So a good resume is easy for both a machine and a hurried human to read.
 
@@ -103,6 +120,25 @@ Run through this list:
 - "References available on request"
 - Salary history, unless asked
 - Unrelated hobbies that take up space
+
+## One bullet, rewritten three times
+
+Most resumes improve fastest in the bullets. Here's one line from an operations resume, rewritten step by step.
+
+1. **Duty:** "Responsible for inventory management."
+2. **Action:** "Managed inventory for a 12,000 sq ft warehouse."
+3. **Action and result:** "Managed inventory for a 12,000 sq ft warehouse and cut stock mismatches from 3.2% to 0.8% with weekly cycle counts."
+
+Each version is true, but only the third tells a recruiter what you achieved and how. If you don't have exact figures, use honest estimates ("about", "roughly") or other measures: time saved, volume handled, people trained, errors removed.
+
+## What changes by career stage
+
+| Stage | Length | Lead with | Keep short |
+| --- | --- | --- | --- |
+| Student or fresher | 1 page | Education, projects, internships | School details beyond class X and XII |
+| 1–5 years | 1 page | Experience with results | Education (one line each) |
+| 5–15 years | 1–2 pages | Last 10 years of experience, key achievements | Early roles (title, company, dates) |
+| 15+ years, leadership | 2 pages | Scope (teams, budgets, P&L), outcomes | Tools and junior-level detail |
 
 ## The short version
 

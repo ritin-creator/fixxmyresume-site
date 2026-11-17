@@ -1,12 +1,29 @@
 ---
-title: "How to Make a Resume in Microsoft Word That ATS Can Read"
-description: "Create an ATS-friendly resume in Microsoft Word: safe templates, styles for headings, margins, bullets, and saving a clean PDF or .docx."
-answer: "Use a blank document or a simple single-column template, set margins to about 0.5–0.75 inches, use Calibri or Arial at 10.5–11 pt, apply Heading styles to section titles, keep contact details in the main body, and save as .docx or with File > Save As > PDF. Avoid tables, text boxes and the header area."
+title: How to Make a Resume in Microsoft Word That ATS Can Read
+description: 'Create an ATS-friendly resume in Microsoft Word: safe templates, styles for headings, margins, bullets, and saving a clean PDF or .docx.'
+answer: Use a blank document or a simple single-column template, set margins to about 0.5–0.75 inches, use Calibri or Arial at 10.5–11 pt, apply Heading styles to section titles, keep contact details in the main body, and save as .docx or with File > Save As > PDF. Avoid tables, text boxes and the header area.
 region: global
 category: formats-and-templates
 format: how-to
-keywords: ["resume in word", "microsoft word resume", "word resume template", "how to make resume in word", "docx resume"]
+keywords:
+- resume in word
+- microsoft word resume
+- word resume template
+- how to make resume in word
+- docx resume
 published: 2026-11-17
+faq:
+- q: Are Word resume templates ATS-friendly?
+  a: Not all. Avoid templates built with tables, text boxes or graphics. A simple single-column template with standard headings works best.
+- q: Should I send my Word resume as .docx or PDF?
+  a: PDF keeps your layout intact. Send .docx only when an employer or portal asks for it.
+- q: How do I save a Word resume as PDF?
+  a: Choose File, then Save As (or Export), and pick PDF as the file type.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 Word is still what many recruiters and agencies prefer to receive. The trick is to keep the document structurally simple.

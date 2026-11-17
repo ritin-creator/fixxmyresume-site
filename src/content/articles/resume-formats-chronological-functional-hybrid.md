@@ -1,18 +1,31 @@
 ---
-title: "Resume Formats Compared: Chronological vs Functional vs Hybrid"
-seoTitle: "Chronological vs Functional vs Hybrid Resume Formats"
-description: "Which resume format should you use? Chronological, functional and hybrid formats compared: who each suits and how ATS and recruiters treat them."
-answer: "Use reverse-chronological for almost everyone: it lists recent jobs first and is what recruiters and ATS expect. A hybrid (combination) format, with a skills summary on top and a full work history below, suits career changers and people with gaps. Avoid a pure functional format; it hides dates, parses poorly and makes recruiters suspicious."
+title: 'Resume Formats Compared: Chronological vs Functional vs Hybrid'
+seoTitle: Chronological vs Functional vs Hybrid Resume Formats
+description: 'Which resume format should you use? Chronological, functional and hybrid formats compared: who each suits and how ATS and recruiters treat them.'
+answer: 'Use reverse-chronological for almost everyone: it lists recent jobs first and is what recruiters and ATS expect. A hybrid (combination) format, with a skills summary on top and a full work history below, suits career changers and people with gaps. Avoid a pure functional format; it hides dates, parses poorly and makes recruiters suspicious.'
 region: global
 category: formats-and-templates
 format: comparison
-keywords: ["resume format", "chronological resume", "functional resume", "hybrid resume", "combination resume", "best resume format"]
+keywords:
+- resume format
+- chronological resume
+- functional resume
+- hybrid resume
+- combination resume
+- best resume format
 published: 2026-11-17
 faq:
-  - q: "What is the best resume format in 2026?"
-    a: "Reverse-chronological, in a single-column layout. It works for most people, most employers and most applicant tracking systems."
-  - q: "Is a functional resume bad?"
-    a: "It is risky. Without clear dates and employers, ATS may not calculate your experience and recruiters may assume you are hiding something."
+- q: What is the best resume format in 2026?
+  a: Reverse-chronological, in a single-column layout. It works for most people, most employers and most applicant tracking systems.
+- q: Is a functional resume bad?
+  a: It is risky. Without clear dates and employers, ATS may not calculate your experience and recruiters may assume you are hiding something.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 There are three classic resume formats. The difference is what comes first: your job history or your skills.

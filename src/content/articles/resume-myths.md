@@ -1,12 +1,31 @@
 ---
-title: "10 Resume Myths That Hold Job Seekers Back"
-description: "Common resume myths about ATS rejection, one-page rules, objectives, keywords, photos and design, checked against how hiring actually works."
-answer: "Most resume myths come from half-truths: ATS rarely reject resumes on their own, one page isn't mandatory for senior people, keyword stuffing doesn't work, fancy designs often hurt more than help, and a resume doesn't need every job you've ever had. What matters is a readable format, the right keywords used honestly, and achievements with numbers."
+title: 10 Resume Myths That Hold Job Seekers Back
+description: Common resume myths about ATS rejection, one-page rules, objectives, keywords, photos and design, checked against how hiring actually works.
+answer: 'Most resume myths come from half-truths: ATS rarely reject resumes on their own, one page isn''t mandatory for senior people, keyword stuffing doesn''t work, fancy designs often hurt more than help, and a resume doesn''t need every job you''ve ever had. What matters is a readable format, the right keywords used honestly, and achievements with numbers.'
 region: global
 category: ats-and-keywords
 format: myths
-keywords: ["resume myths", "ATS myths", "resume misconceptions", "resume advice", "resume facts"]
+keywords:
+- resume myths
+- ATS myths
+- resume misconceptions
+- resume advice
+- resume facts
 published: 2026-11-17
+faq:
+- q: Is it true that a resume must be one page?
+  a: Not always. One page suits freshers and early-career candidates; two pages are normal for experienced professionals. Length should follow relevance, not a fixed rule.
+- q: Do ATS systems automatically reject most resumes?
+  a: Not usually. Most ATS store and rank applications for recruiters to search. Resumes 'disappear' when they can't be read properly or don't match the terms recruiters search for.
+- q: Should I put 'references available on request'?
+  a: No. Employers assume you will provide references when asked, so the line wastes space.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 ## Myth 1: "75% of resumes are rejected by ATS robots"

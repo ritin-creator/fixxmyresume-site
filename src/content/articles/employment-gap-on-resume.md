@@ -1,19 +1,34 @@
 ---
-title: "How to Explain an Employment Gap on Your Resume (With Examples)"
-seoTitle: "How to Explain an Employment Gap on Your Resume"
-description: "How to show a career gap on your resume honestly: when to mention it, one-line explanations for common reasons, and what to say in the interview."
-answer: "Keep honest dates on every job, and if the gap is longer than about six months, add one neutral line in the timeline explaining it, such as 'Career break: full-time caregiving, 2023–2024'. Mention anything useful you did during it, like courses or freelance work. Don't over-explain or hide dates with a functional format."
+title: How to Explain an Employment Gap on Your Resume (With Examples)
+seoTitle: How to Explain an Employment Gap on Your Resume
+description: 'How to show a career gap on your resume honestly: when to mention it, one-line explanations for common reasons, and what to say in the interview.'
+answer: 'Keep honest dates on every job, and if the gap is longer than about six months, add one neutral line in the timeline explaining it, such as ''Career break: full-time caregiving, 2023–2024''. Mention anything useful you did during it, like courses or freelance work. Don''t over-explain or hide dates with a functional format.'
 region: global
 category: career-situations
 format: how-to
-keywords: ["employment gap resume", "career gap", "explain gap in resume", "gap year resume", "resume gap"]
+keywords:
+- employment gap resume
+- career gap
+- explain gap in resume
+- gap year resume
+- resume gap
 published: 2026-11-17
 faq:
-  - q: "Do employers reject people with gaps?"
-    a: "Gaps are common and many employers don't mind if they're explained simply. A gap without explanation leaves room for assumptions, so a short line helps."
-  - q: "Should I use months or just years for dates?"
-    a: "Use months and years consistently. Using years only to hide a gap is easy to spot and can look evasive."
+- q: Do employers reject people with gaps?
+  a: Gaps are common and many employers don't mind if they're explained simply. A gap without explanation leaves room for assumptions, so a short line helps.
+- q: Should I use months or just years for dates?
+  a: Use months and years consistently. Using years only to hide a gap is easy to spot and can look evasive.
+sources:
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> In India? See [Resume After a Career Break: Guide for India](/articles/career-break-resume-india/).
+
 
 Gaps happen: layoffs, health, family, study, travel, a business that didn't work out. What worries recruiters isn't the gap; it's not knowing what happened.
 

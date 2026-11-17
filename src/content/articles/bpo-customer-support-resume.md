@@ -1,14 +1,34 @@
 ---
-title: "BPO and Customer Support Resume for India (Voice, Chat, Non-Voice)"
-seoTitle: "BPO Resume for India: Voice, Chat and Non-Voice Roles"
-description: "A BPO resume for freshers and experienced agents in India: voice and non-voice processes, languages, shifts, typing speed and the metrics team leaders check."
-answer: "A BPO or customer support resume should state the process type (voice, chat, email, back office), the domain (telecom, banking, e-commerce, travel), languages, shift and night-shift flexibility, typing speed for non-voice roles, and performance metrics like calls per day, CSAT, quality score and average handle time."
+title: BPO and Customer Support Resume for India (Voice, Chat, Non-Voice)
+seoTitle: 'BPO Resume for India: Voice, Chat and Non-Voice Roles'
+description: 'A BPO resume for freshers and experienced agents in India: voice and non-voice processes, languages, shifts, typing speed and the metrics team leaders check.'
+answer: A BPO or customer support resume should state the process type (voice, chat, email, back office), the domain (telecom, banking, e-commerce, travel), languages, shift and night-shift flexibility, typing speed for non-voice roles, and performance metrics like calls per day, CSAT, quality score and average handle time.
 region: india
 category: examples-by-role
 format: examples
-keywords: ["BPO resume", "BPO fresher resume", "customer support resume India", "call center resume format", "non voice process resume"]
+keywords:
+- BPO resume
+- BPO fresher resume
+- customer support resume India
+- call center resume format
+- non voice process resume
 published: 2026-11-17
+faq:
+- q: What should I write on a BPO resume as a fresher?
+  a: Your communication skills, languages, typing speed for non-voice roles, willingness to work night shifts, and any customer-facing experience from part-time work or college events.
+- q: Should I mention night-shift availability on a BPO resume?
+  a: Yes. Many BPO roles run in rotational or night shifts, and recruiters filter for it. One line in your summary or skills is enough.
+- q: What metrics should a BPO resume include?
+  a: Calls or chats per day, CSAT, quality score, average handle time, first-call resolution and attendance, for the processes you worked on.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
+
+> Applying for support jobs abroad? See the [Customer Service Resume Example](/articles/customer-service-resume-example/).
+
 
 ## For freshers
 

@@ -1,12 +1,31 @@
 ---
-title: "Marketing Resume Example: Digital, Content and Brand Roles"
-description: "Marketing resume examples for digital, performance, content and brand roles, with bullet points built on spend, reach, leads and revenue, and the tools to list."
-answer: "A marketing resume should connect each campaign to a business result: leads, sales, cost per acquisition, return on ad spend, organic traffic or brand metrics. Name the channels and tools you used, the budget you managed, and the outcome, and tailor the mix to whether the role is performance, content or brand."
+title: 'Marketing Resume Example: Digital, Content and Brand Roles'
+description: Marketing resume examples for digital, performance, content and brand roles, with bullet points built on spend, reach, leads and revenue, and the tools to list.
+answer: 'A marketing resume should connect each campaign to a business result: leads, sales, cost per acquisition, return on ad spend, organic traffic or brand metrics. Name the channels and tools you used, the budget you managed, and the outcome, and tailor the mix to whether the role is performance, content or brand.'
 region: global
 category: examples-by-role
 format: examples
-keywords: ["marketing resume", "digital marketing resume", "marketing resume example", "content marketing resume", "performance marketing resume"]
+keywords:
+- marketing resume
+- digital marketing resume
+- marketing resume example
+- content marketing resume
+- performance marketing resume
 published: 2026-11-17
+faq:
+- q: What should a marketing resume highlight?
+  a: 'Results: leads, conversions, cost per acquisition, revenue influenced, audience growth and campaign ROI, plus the channels and tools you used.'
+- q: Which tools should a digital marketer list?
+  a: The ones you've used for real work, such as Google Ads, Meta Ads Manager, Google Analytics, HubSpot, SEO tools and email platforms.
+- q: Should a marketing resume link to a portfolio?
+  a: Yes, if you have campaigns, content or designs you can share. Add one link near your contact details.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'U.S. Bureau of Labor Statistics: Occupational Outlook Handbook'
+  url: https://www.bls.gov/ooh/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
 
 ## Bullets by specialism (fictional numbers)

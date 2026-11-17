@@ -1,12 +1,29 @@
 ---
-title: "B.Com Fresher Resume Example for Accounts and Finance Jobs"
-description: "A B.Com fresher resume example for accounts executive, finance and banking roles: Tally, GST and Excel skills, internships, articleship and certifications."
-answer: "A B.Com fresher resume for accounts jobs should show practical skills recruiters filter for, such as Tally Prime, GST basics, TDS, Excel and bank reconciliation, then any internship or part-time accounting work with numbers, education with percentages, and certifications like a GST or Tally course. One page, single column."
+title: B.Com Fresher Resume Example for Accounts and Finance Jobs
+description: 'A B.Com fresher resume example for accounts executive, finance and banking roles: Tally, GST and Excel skills, internships, articleship and certifications.'
+answer: A B.Com fresher resume for accounts jobs should show practical skills recruiters filter for, such as Tally Prime, GST basics, TDS, Excel and bank reconciliation, then any internship or part-time accounting work with numbers, education with percentages, and certifications like a GST or Tally course. One page, single column.
 region: india
 category: examples-by-role
 format: examples
-keywords: ["B.Com fresher resume", "BCom resume format", "accounts fresher resume", "commerce fresher resume", "accountant fresher resume"]
+keywords:
+- B.Com fresher resume
+- BCom resume format
+- accounts fresher resume
+- commerce fresher resume
+- accountant fresher resume
 published: 2026-11-17
+faq:
+- q: What skills should a B.Com fresher put on a resume?
+  a: Tally Prime, GST basics, TDS, MS Excel (VLOOKUP, pivot tables), bank reconciliation, accounts payable and receivable, and good written English.
+- q: Should a B.Com fresher do a GST or Tally course?
+  a: It helps for accounts roles, because recruiters filter for these skills. List the course with the institute and the year.
+- q: What jobs can a B.Com fresher apply for?
+  a: Accounts executive, accounts assistant, finance trainee, audit assistant, banking sales roles, MIS executive and back-office operations.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
 ---
 
 ## Sample (fictional)

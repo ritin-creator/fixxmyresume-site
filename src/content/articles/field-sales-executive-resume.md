@@ -1,13 +1,30 @@
 ---
-title: "Field Sales Executive Resume Example (FMCG, Fintech, Telecom)"
-seoTitle: "Field Sales Executive Resume Example (FMCG, Fintech)"
-description: "Field sales executive resume example with bullets for FMCG, fintech merchant onboarding and telecom: targets, outlets, territory, collections and skills."
-answer: "A field sales executive resume should lead with numbers: target achievement, outlets or merchants added, territory covered, monthly sales volume and collections. Mention the products and channels (general trade, modern trade, merchant onboarding, SIM or broadband sales), languages spoken, two-wheeler and licence if the job needs travel, and any rankings or awards."
+title: Field Sales Executive Resume Example (FMCG, Fintech, Telecom)
+seoTitle: Field Sales Executive Resume Example (FMCG, Fintech)
+description: 'Field sales executive resume example with bullets for FMCG, fintech merchant onboarding and telecom: targets, outlets, territory, collections and skills.'
+answer: 'A field sales executive resume should lead with numbers: target achievement, outlets or merchants added, territory covered, monthly sales volume and collections. Mention the products and channels (general trade, modern trade, merchant onboarding, SIM or broadband sales), languages spoken, two-wheeler and licence if the job needs travel, and any rankings or awards.'
 region: india
 category: examples-by-role
 format: examples
-keywords: ["field sales executive resume", "FMCG sales resume", "sales executive resume India", "field sales resume format", "merchant acquisition resume"]
+keywords:
+- field sales executive resume
+- FMCG sales resume
+- sales executive resume India
+- field sales resume format
+- merchant acquisition resume
 published: 2026-11-17
+faq:
+- q: What should a field sales executive resume include?
+  a: Target achievement, outlets or merchants added, territory covered, monthly volume, collections and any rankings, plus the products you sold.
+- q: Should I mention two-wheeler and licence on a field sales resume?
+  a: Yes, if the job involves travel and asks for them. One line in your skills or personal details is enough.
+- q: How do I show field sales results without exact numbers?
+  a: Use honest approximations and ranges, such as 'added about 40 new merchants a month' or 'achieved 100–110% of monthly target in most months of 2025'.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 ## Sample (fictional)

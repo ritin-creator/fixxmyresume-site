@@ -1,12 +1,29 @@
 ---
-title: "Resume Tips for Job Seekers From Tier-2 and Tier-3 Cities"
-description: "Resume advice for job seekers from smaller Indian towns: presenting local colleges and experience, relocation, languages, remote jobs and common traps."
-answer: "Your town or college doesn't decide your resume; what you did does. Write your experience as achievements with numbers, show practical skills recruiters search for, make relocation readiness clear in your contact line, list regional languages as a strength, and use online certifications and projects to fill gaps a big-city college might have covered."
+title: Resume Tips for Job Seekers From Tier-2 and Tier-3 Cities
+description: 'Resume advice for job seekers from smaller Indian towns: presenting local colleges and experience, relocation, languages, remote jobs and common traps.'
+answer: Your town or college doesn't decide your resume; what you did does. Write your experience as achievements with numbers, show practical skills recruiters search for, make relocation readiness clear in your contact line, list regional languages as a strength, and use online certifications and projects to fill gaps a big-city college might have covered.
 region: india
 category: career-situations
 format: guide
-keywords: ["resume tips small town", "tier 2 city jobs resume", "resume for rural candidates", "relocation resume", "regional language resume"]
+keywords:
+- resume tips small town
+- tier 2 city jobs resume
+- resume for rural candidates
+- relocation resume
+- regional language resume
 published: 2026-11-17
+faq:
+- q: Does a small-town college hurt my resume?
+  a: Less than you might think. Projects, internships, skills and certifications carry more weight, especially outside campus placements.
+- q: Should I mention I'm willing to relocate?
+  a: Yes. One line such as 'Open to relocate to Bengaluru, Pune or Hyderabad' helps recruiters in other cities.
+- q: Can I apply for remote jobs from a small town?
+  a: Yes. Show reliable internet, a quiet workspace and written communication, and list remote tools you've used.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
 ---
 
 Most of India's job seekers aren't from the metros. Recruiters in large cities increasingly hire from smaller towns, especially for sales, operations, support and remote roles. A few resume choices make a big difference.

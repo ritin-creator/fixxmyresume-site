@@ -1,18 +1,28 @@
 ---
-title: "Resume for Gulf Jobs (UAE, Saudi Arabia, Qatar, Oman) From India"
-seoTitle: "Resume for Gulf Jobs From India: UAE, Saudi, Qatar"
-description: "How to write a CV for Gulf jobs from India: personal details employers expect, photo, nationality, visa, notice period, passport and attested degrees."
-answer: "Gulf employers usually expect a 1–2 page CV with a professional photo, nationality, visa status, current location, availability or notice period, passport validity and languages, along with clear job titles and GCC experience if you have it. Be ready to show attested degree certificates, which are often needed for work visas."
+title: Resume for Gulf Jobs (UAE, Saudi Arabia, Qatar, Oman) From India
+seoTitle: 'Resume for Gulf Jobs From India: UAE, Saudi, Qatar'
+description: 'How to write a CV for Gulf jobs from India: personal details employers expect, photo, nationality, visa, notice period, passport and attested degrees.'
+answer: Gulf employers usually expect a 1–2 page CV with a professional photo, nationality, visa status, current location, availability or notice period, passport validity and languages, along with clear job titles and GCC experience if you have it. Be ready to show attested degree certificates, which are often needed for work visas.
 region: india
 category: working-abroad
 format: guide
-keywords: ["Gulf job resume", "Dubai CV format", "UAE resume from India", "Saudi job CV", "resume for Gulf jobs"]
+keywords:
+- Gulf job resume
+- Dubai CV format
+- UAE resume from India
+- Saudi job CV
+- resume for Gulf jobs
 published: 2026-11-17
 faq:
-  - q: "Do Gulf CVs need a photo?"
-    a: "It's common and often expected. Use a recent, professional photo on a plain background."
-  - q: "Should I pay an agent to get a Gulf job?"
-    a: "Be careful. Use agencies registered with India's Ministry of External Affairs (eMigrate) and never pay for a job offer that you can't verify with the employer."
+- q: Do Gulf CVs need a photo?
+  a: It's common and often expected. Use a recent, professional photo on a plain background.
+- q: Should I pay an agent to get a Gulf job?
+  a: Be careful. Use agencies registered with India's Ministry of External Affairs (eMigrate) and never pay for a job offer that you can't verify with the employer.
+sources:
+- title: 'UAE Government portal: Jobs'
+  url: https://u.ae/en/information-and-services/jobs
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## Personal details Gulf employers expect

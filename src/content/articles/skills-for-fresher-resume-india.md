@@ -1,14 +1,36 @@
 ---
-title: "Skills for a Fresher Resume in India: What to List for Each Field"
-seoTitle: "Skills for a Fresher Resume in India, by Field"
-description: "Technical and soft skills for a fresher resume in India by field: IT, commerce, marketing, HR, engineering, support and sales, with how to prove each one."
-answer: "Freshers should list 8–12 skills that the job description mentions and that they can demonstrate: tools and software (Excel, Tally, Java, SQL, Canva), domain knowledge (GST basics, digital marketing), and languages. Prove soft skills like communication or teamwork through projects and activities instead of listing them alone."
+title: 'Skills for a Fresher Resume in India: What to List for Each Field'
+seoTitle: Skills for a Fresher Resume in India, by Field
+description: 'Technical and soft skills for a fresher resume in India by field: IT, commerce, marketing, HR, engineering, support and sales, with how to prove each one.'
+answer: 'Freshers should list 8–12 skills that the job description mentions and that they can demonstrate: tools and software (Excel, Tally, Java, SQL, Canva), domain knowledge (GST basics, digital marketing), and languages. Prove soft skills like communication or teamwork through projects and activities instead of listing them alone.'
 region: india
 category: freshers-and-students
 format: list
-keywords: ["skills for fresher resume", "key skills for freshers", "technical skills for resume", "soft skills for freshers", "skills section fresher"]
+keywords:
+- skills for fresher resume
+- key skills for freshers
+- technical skills for resume
+- soft skills for freshers
+- skills section fresher
 published: 2026-11-17
+faq:
+- q: How many skills should a fresher list?
+  a: About 8 to 12, grouped by type, and only ones you can discuss in an interview.
+- q: Should I rate my skills with stars or bars?
+  a: No. Ratings mean little to recruiters and can confuse ATS. Show skills through projects and results instead.
+- q: Are soft skills worth listing?
+  a: Briefly, but prove them in your projects and activities, such as leading a team or presenting to a class.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
+
+> For a bigger list across fields and levels, see [Skills to Put on a Resume](/articles/skills-to-put-on-a-resume/).
+
 
 ## By field
 

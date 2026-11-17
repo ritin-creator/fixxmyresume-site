@@ -1,17 +1,29 @@
 ---
-title: "How Long Should a Resume Be? One Page or Two?"
-description: "The right resume length by experience level: one page for most people under 8 years, two pages for senior roles, and when a longer CV is expected."
-answer: "One page if you have under about 8 years of relevant experience, including all freshers and students. Two pages for senior professionals with 8 or more years or many relevant projects. Longer academic CVs are fine for research, medicine and academia, and some countries expect two-page CVs as standard."
+title: How Long Should a Resume Be? One Page or Two?
+description: 'The right resume length by experience level: one page for most people under 8 years, two pages for senior roles, and when a longer CV is expected.'
+answer: One page if you have under about 8 years of relevant experience, including all freshers and students. Two pages for senior professionals with 8 or more years or many relevant projects. Longer academic CVs are fine for research, medicine and academia, and some countries expect two-page CVs as standard.
 region: global
 category: formats-and-templates
 format: quick-answer
-keywords: ["how long should a resume be", "resume length", "one page resume", "two page resume", "resume pages"]
+keywords:
+- how long should a resume be
+- resume length
+- one page resume
+- two page resume
+- resume pages
 published: 2026-11-17
 faq:
-  - q: "Is a three-page resume too long?"
-    a: "For most corporate jobs, yes. Cut older roles to one line each and remove bullets that don't support the target job. Academic and medical CVs are the exception."
-  - q: "Should I shrink the font to fit one page?"
-    a: "Not below 10 points. Cut words instead: shorter bullets, fewer bullets for old roles, no 'References available on request'."
+- q: Is a three-page resume too long?
+  a: For most corporate jobs, yes. Cut older roles to one line each and remove bullets that don't support the target job. Academic and medical CVs are the exception.
+- q: Should I shrink the font to fit one page?
+  a: 'Not below 10 points. Cut words instead: shorter bullets, fewer bullets for old roles, no ''References available on request''.'
+sources:
+- title: 'USAJOBS Help: What to include in a federal resume'
+  url: https://help.usajobs.gov/faq/application/documents/resume/what-to-include
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
 
 Length isn't a rule, it's a budget. Recruiters skim, so every line should earn its place.

@@ -1,12 +1,31 @@
 ---
-title: "Internship Resume for Students in India (With Examples)"
-description: "How to write an internship resume as a college student in India: what to include with no work experience, project and coursework bullets, and where to apply."
-answer: "An internship resume should be one page: a short objective naming the internship role, education with current year and CGPA, two or three projects or coursework assignments with results, skills that match the role, and any college activities with responsibility. Apply with a short, specific message explaining why that company."
+title: Internship Resume for Students in India (With Examples)
+description: 'How to write an internship resume as a college student in India: what to include with no work experience, project and coursework bullets, and where to apply.'
+answer: 'An internship resume should be one page: a short objective naming the internship role, education with current year and CGPA, two or three projects or coursework assignments with results, skills that match the role, and any college activities with responsibility. Apply with a short, specific message explaining why that company.'
 region: india
 category: freshers-and-students
 format: guide
-keywords: ["internship resume", "resume for internship", "student resume India", "internship CV", "first internship resume"]
+keywords:
+- internship resume
+- resume for internship
+- student resume India
+- internship CV
+- first internship resume
 published: 2026-11-17
+faq:
+- q: Where can students in India find internships?
+  a: College placement cells, the AICTE Internship Portal, job portals such as Naukri and LinkedIn, and company career pages.
+- q: What should an internship resume include?
+  a: A short summary, education, skills, projects, any previous internships or part-time work, and college activities with results.
+- q: Should I list unpaid internships on my resume?
+  a: Yes. Paid or unpaid doesn't matter; what you did and achieved does.
+sources:
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: National Apprenticeship Training Scheme (NATS)
+  url: https://nats.education.gov.in/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## Structure

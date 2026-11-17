@@ -1,21 +1,36 @@
 ---
-title: "Resume Format for Freshers in India (2026): Section-by-Section Guide"
-seoTitle: "Resume Format for Freshers in India (2026 Guide)"
-description: "The best resume format for freshers in India: what goes in each section, the right order for B.Tech, B.Com, BBA and MBA freshers, a sample and mistakes."
-answer: "Indian freshers should use a one-page, single-column format: name and contact details, a two-line summary naming the target role, education (degree, college, year, CGPA or percentage), projects and internships with results, skills matched to the job, then certifications and achievements. Leave out date of birth, father's name, religion, photo and a declaration unless the employer asks."
+title: 'Resume Format for Freshers in India (2026): Section-by-Section Guide'
+seoTitle: Resume Format for Freshers in India (2026 Guide)
+description: 'The best resume format for freshers in India: what goes in each section, the right order for B.Tech, B.Com, BBA and MBA freshers, a sample and mistakes.'
+answer: 'Indian freshers should use a one-page, single-column format: name and contact details, a two-line summary naming the target role, education (degree, college, year, CGPA or percentage), projects and internships with results, skills matched to the job, then certifications and achievements. Leave out date of birth, father''s name, religion, photo and a declaration unless the employer asks.'
 region: india
 category: freshers-and-students
 format: guide
-keywords: ["resume format for freshers", "fresher resume format India", "resume for freshers", "fresher CV format", "best resume format for freshers"]
+keywords:
+- resume format for freshers
+- fresher resume format India
+- resume for freshers
+- fresher CV format
+- best resume format for freshers
 published: 2026-11-17
 faq:
-  - q: "Should a fresher resume be one page?"
-    a: "Yes. One page is enough for almost every fresher. MBA or M.Tech freshers with substantial internships can occasionally justify a little more, but one page is safer."
-  - q: "Should I write 10th and 12th marks?"
-    a: "Yes for freshers, briefly, especially for campus and IT services hiring that sets cut-offs. List them under education in one line each."
-  - q: "Is a declaration needed at the end?"
-    a: "No. 'I hereby declare that the above information is true' is outdated for private-sector jobs. Some government forms still ask for it."
+- q: Should a fresher resume be one page?
+  a: Yes. One page is enough for almost every fresher. MBA or M.Tech freshers with substantial internships can occasionally justify a little more, but one page is safer.
+- q: Should I write 10th and 12th marks?
+  a: Yes for freshers, briefly, especially for campus and IT services hiring that sets cut-offs. List them under education in one line each.
+- q: Is a declaration needed at the end?
+  a: No. 'I hereby declare that the above information is true' is outdated for private-sector jobs. Some government forms still ask for it.
+sources:
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> Applying abroad, or with no projects yet? See [Resume With No Work Experience](/articles/resume-with-no-experience/).
+
 
 India adds millions of graduates to the job market every year, and fresher job posts on portals get hundreds of applications. Recruiters spend seconds on each resume, and much of the first sorting happens in software. A clean, specific one-page resume is the quickest way to stand out.
 
@@ -116,6 +131,51 @@ More on this: [personal details on an Indian resume](/articles/personal-details-
 | Diploma, ITI | Practical training, apprenticeships, tools and machines handled |
 
 Examples: [B.Tech](/articles/btech-fresher-resume/), [MBA](/articles/mba-fresher-resume/), [B.Com](/articles/bcom-fresher-resume/), [BCA/MCA](/articles/bca-mca-fresher-resume/).
+
+## A complete one-page sample (B.Tech CSE fresher)
+
+```
+ANANYA IYER
+Chennai | ananya.iyer@email.com | +91 98XXX XXXXX | linkedin.com/in/ananyaiyer | github.com/ananyaiyer
+
+SUMMARY
+Final-year B.Tech CSE student targeting backend developer roles. Built a Spring Boot
+attendance system used by 600 students; 2-month internship on REST APIs.
+
+EDUCATION
+B.Tech, Computer Science, SRM Institute of Science and Technology | 2022 – 2026 | CGPA 8.4/10
+Class XII (CBSE) | 2022 | 91%     Class X (CBSE) | 2020 | 94%
+
+PROJECTS
+Smart Attendance System | Java, Spring Boot, MySQL
+- QR-based attendance for 600 students across 12 classes; cut roll-call time by ~10 minutes per lecture
+Expense Splitter | React, Node.js, MongoDB
+- Group expense app with settle-up suggestions; 150 users from campus in the first month
+
+INTERNSHIP
+Backend Intern, Finlytics Pvt Ltd, Chennai | May 2025 – Jul 2025
+- Built 4 REST endpoints for a loan-status service; wrote unit tests reaching 85% coverage
+
+SKILLS
+Languages: Java, Python, JavaScript   Frameworks: Spring Boot, React, Node.js
+Databases: MySQL, MongoDB   Tools: Git, Postman, Docker (basics)
+
+ACHIEVEMENTS AND ACTIVITIES
+- CodeChef 3-star (max rating 1720)
+- Technical lead, college coding club; organised 2 hackathons with 300+ participants
+```
+
+The structure is the point here: summary, education with marks, projects with tools and results, internship, grouped skills, then achievements. Replace every detail with your own.
+
+## 60-second check before you send
+
+- Name, phone and email correct, and the email is professional
+- One page, one column, text-based PDF
+- CGPA or percentage shown the same way throughout
+- Every project and internship bullet starts with a verb and has a number where possible
+- Skills match the job description and you can explain each one
+- No date of birth, father's name, photo or declaration (unless asked)
+- File named `Firstname-Lastname-Resume.pdf`
 
 ## Before you upload to Naukri or apply
 

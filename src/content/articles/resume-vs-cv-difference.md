@@ -1,13 +1,35 @@
 ---
-title: "Resume vs CV: What's the Difference (by Country)?"
-description: "Resume or CV? The real difference in length and purpose, and what each word means in the US, UK, Europe, India, the Middle East and Australia."
-answer: "In the US and Canada, a resume is a short 1–2 page summary for most jobs, while a CV is a long academic record. In the UK, Ireland, Europe, Australia, New Zealand and much of the Middle East, 'CV' simply means the standard 1–2 page job application document. In India both words are used for the same thing, with 'resume' slightly more common."
+title: 'Resume vs CV: What''s the Difference (by Country)?'
+description: Resume or CV? The real difference in length and purpose, and what each word means in the US, UK, Europe, India, the Middle East and Australia.
+answer: In the US and Canada, a resume is a short 1–2 page summary for most jobs, while a CV is a long academic record. In the UK, Ireland, Europe, Australia, New Zealand and much of the Middle East, 'CV' simply means the standard 1–2 page job application document. In India both words are used for the same thing, with 'resume' slightly more common.
 region: global
 category: formats-and-templates
 format: comparison
-keywords: ["resume vs CV", "CV vs resume", "difference between CV and resume", "what is a CV", "curriculum vitae"]
+keywords:
+- resume vs CV
+- CV vs resume
+- difference between CV and resume
+- what is a CV
+- curriculum vitae
 published: 2026-11-17
+faq:
+- q: Are a CV and a resume the same thing?
+  a: In the UK, Europe and India 'CV' usually means the same 1 to 2 page document Americans call a resume. In the US, a CV is a longer academic record of publications, teaching and research.
+- q: Which should I send if a job asks for a CV?
+  a: Send your normal 1 to 2 page resume unless the role is academic, medical or research-based and clearly expects a full academic CV.
+- q: How long is a CV?
+  a: A UK-style CV is usually up to two pages. An academic CV can run to many pages because it lists every publication and presentation.
+sources:
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: 'Europass (European Union): Create your Europass CV'
+  url: https://europass.europa.eu/en/create-europass-cv
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> In India, see [Biodata vs Resume vs CV](/articles/biodata-vs-resume-vs-cv/) for how the terms are used there.
+
 
 "CV" is short for *curriculum vitae*, Latin for "course of life". Whether it means something different from a resume depends on where you are.
 

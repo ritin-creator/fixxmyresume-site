@@ -1,18 +1,28 @@
 ---
-title: "How to Quantify Achievements on Your Resume (Even Without Data)"
-seoTitle: "How to Quantify Achievements on Your Resume"
-description: "Turn duties into measurable resume achievements. Seven kinds of numbers to look for, how to estimate honestly, and examples for jobs that don't seem measurable."
-answer: "Add a number to each bullet that shows scale or result: how much, how many, how often, how fast, or how much better. If you don't have exact data, use honest estimates ('about 30 calls a day'), ranges, team size, budget, frequency or rankings. Never invent a figure you couldn't explain in an interview."
+title: How to Quantify Achievements on Your Resume (Even Without Data)
+seoTitle: How to Quantify Achievements on Your Resume
+description: Turn duties into measurable resume achievements. Seven kinds of numbers to look for, how to estimate honestly, and examples for jobs that don't seem measurable.
+answer: 'Add a number to each bullet that shows scale or result: how much, how many, how often, how fast, or how much better. If you don''t have exact data, use honest estimates (''about 30 calls a day''), ranges, team size, budget, frequency or rankings. Never invent a figure you couldn''t explain in an interview.'
 region: global
 category: resume-writing
 format: how-to
-keywords: ["quantify achievements resume", "resume achievements", "numbers on resume", "measurable results resume", "resume accomplishments"]
+keywords:
+- quantify achievements resume
+- resume achievements
+- numbers on resume
+- measurable results resume
+- resume accomplishments
 published: 2026-11-17
 faq:
-  - q: "What if my job has no numbers?"
-    a: "Every job has scale: people served, items processed, documents written, frequency, time saved, errors avoided, team size, rankings. Count those."
-  - q: "Can I estimate numbers on a resume?"
-    a: "Yes, if the estimate is honest and you can explain how you got it. Use words like 'about' or 'over' when you're not exact."
+- q: What if my job has no numbers?
+  a: 'Every job has scale: people served, items processed, documents written, frequency, time saved, errors avoided, team size, rankings. Count those.'
+- q: Can I estimate numbers on a resume?
+  a: Yes, if the estimate is honest and you can explain how you got it. Use words like 'about' or 'over' when you're not exact.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 Numbers do two things on a resume: they make your work concrete, and they let a reader compare you with other candidates. "Handled customer complaints" could mean 3 a month or 300 a day.

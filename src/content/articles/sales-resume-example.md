@@ -1,13 +1,35 @@
 ---
-title: "Sales Resume Example: Show Targets, Revenue and Territory"
-description: "A sales resume example with bullets for field sales, inside sales, B2B and key accounts, built on quota, revenue, new accounts and territory growth."
-answer: "A sales resume lives on numbers: percentage of target achieved, revenue or volume closed, new accounts added, territory size, deal size and rankings. Lead each role with your best number, name what you sold and to whom, and show the methods (prospecting, negotiation, distributor management) behind the results."
+title: 'Sales Resume Example: Show Targets, Revenue and Territory'
+description: A sales resume example with bullets for field sales, inside sales, B2B and key accounts, built on quota, revenue, new accounts and territory growth.
+answer: 'A sales resume lives on numbers: percentage of target achieved, revenue or volume closed, new accounts added, territory size, deal size and rankings. Lead each role with your best number, name what you sold and to whom, and show the methods (prospecting, negotiation, distributor management) behind the results.'
 region: global
 category: examples-by-role
 format: examples
-keywords: ["sales resume", "sales resume example", "sales executive resume", "business development resume", "account manager resume"]
+keywords:
+- sales resume
+- sales resume example
+- sales executive resume
+- business development resume
+- account manager resume
 published: 2026-11-17
+faq:
+- q: What numbers should a sales resume include?
+  a: Target achievement as a percentage, revenue or units sold, new accounts won, deal sizes, conversion rate and rankings within your team.
+- q: How do I write a sales resume with no sales experience?
+  a: 'Show persuasion and targets from other work: fundraising, campus events, retail, internships or any role with customer contact and measurable results.'
+- q: Should I mention sales awards on a resume?
+  a: Yes. Awards and rankings ('Top 3 of 40 reps in Q2') are strong proof. Put them in the relevant job's bullets.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'U.S. Bureau of Labor Statistics: Occupational Outlook Handbook'
+  url: https://www.bls.gov/ooh/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> Field sales in India? See the [Field Sales Executive Resume Example](/articles/field-sales-executive-resume/).
+
 
 ## Sample bullets (fictional)
 

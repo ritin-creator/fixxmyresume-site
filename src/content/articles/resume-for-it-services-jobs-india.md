@@ -1,13 +1,32 @@
 ---
-title: "Resume for IT Services Jobs in India (Mass Recruiters and Off-Campus Drives)"
-seoTitle: "Resume for IT Services Jobs and Off-Campus Drives"
-description: "How to write a resume for IT services companies and off-campus drives in India: eligibility details, skills, projects, certifications and interview prep."
-answer: "IT services employers hire freshers in large numbers and screen first on eligibility (degree, year, marks, backlogs), then tests and interviews. Your resume should state those details clearly, list core skills (a programming language, SQL, data structures, OOP), two or three projects you can explain, any internship, and certifications. Keep it one page and honest, because interviews go line by line."
+title: Resume for IT Services Jobs in India (Mass Recruiters and Off-Campus Drives)
+seoTitle: Resume for IT Services Jobs and Off-Campus Drives
+description: 'How to write a resume for IT services companies and off-campus drives in India: eligibility details, skills, projects, certifications and interview prep.'
+answer: IT services employers hire freshers in large numbers and screen first on eligibility (degree, year, marks, backlogs), then tests and interviews. Your resume should state those details clearly, list core skills (a programming language, SQL, data structures, OOP), two or three projects you can explain, any internship, and certifications. Keep it one page and honest, because interviews go line by line.
 region: india
 category: examples-by-role
 format: guide
-keywords: ["resume for IT jobs", "IT fresher resume", "off campus drive resume", "resume for software company", "IT services resume India"]
+keywords:
+- resume for IT jobs
+- IT fresher resume
+- off campus drive resume
+- resume for software company
+- IT services resume India
 published: 2026-11-17
+faq:
+- q: What do IT services companies check on a fresher resume?
+  a: 'Eligibility first: degree, branch, year of passing, marks and backlogs. Then programming skills, projects and certifications.'
+- q: Does the TCS NQT score help with other companies?
+  a: The NQT is designed so that participating employers can consider your scores in hiring. Check which companies accept it on the TCS iON site.
+- q: Should I list every programming language I know?
+  a: No. List the ones you can code and explain in an interview, strongest first.
+sources:
+- title: TCS iON National Qualifier Test (NQT)
+  url: https://www.tcsion.com/hub/national-qualifier-test/
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## How these drives usually work

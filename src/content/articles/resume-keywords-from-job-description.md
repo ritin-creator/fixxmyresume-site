@@ -1,18 +1,30 @@
 ---
-title: "Resume Keywords: How to Find Them in a Job Description and Use Them"
-seoTitle: "Resume Keywords: Find and Use Them From a Job Ad"
-description: "Find the keywords recruiters and ATS search for in any job description, place them in your resume naturally, and avoid keyword stuffing."
-answer: "Copy the job description, mark the job title, tools, skills, certifications and repeated phrases, then use the ones that truly apply to you in your summary, skills section and experience bullets, in the employer's exact wording. Spell out acronyms once. Don't hide keywords in white text or list skills you can't back up."
+title: 'Resume Keywords: How to Find Them in a Job Description and Use Them'
+seoTitle: 'Resume Keywords: Find and Use Them From a Job Ad'
+description: Find the keywords recruiters and ATS search for in any job description, place them in your resume naturally, and avoid keyword stuffing.
+answer: Copy the job description, mark the job title, tools, skills, certifications and repeated phrases, then use the ones that truly apply to you in your summary, skills section and experience bullets, in the employer's exact wording. Spell out acronyms once. Don't hide keywords in white text or list skills you can't back up.
 region: global
 category: ats-and-keywords
 format: how-to
-keywords: ["resume keywords", "ATS keywords", "keywords from job description", "resume keyword optimization", "job description keywords"]
+keywords:
+- resume keywords
+- ATS keywords
+- keywords from job description
+- resume keyword optimization
+- job description keywords
 published: 2026-11-17
 faq:
-  - q: "How many keywords should a resume have?"
-    a: "There's no magic number. Aim to cover most of the hard skills and the job title from the description, as long as each is true for you."
-  - q: "Does keyword stuffing work?"
-    a: "No. Repetition and hidden text are easy for recruiters to spot, and modern AI matching looks at context, not just counts."
+- q: How many keywords should a resume have?
+  a: There's no magic number. Aim to cover most of the hard skills and the job title from the description, as long as each is true for you.
+- q: Does keyword stuffing work?
+  a: No. Repetition and hidden text are easy for recruiters to spot, and modern AI matching looks at context, not just counts.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 Recruiters search their ATS like a search engine: "Data Analyst" AND "SQL" AND "Power BI", maybe filtered by city. If those words aren't in your resume, you don't appear, however good you are.

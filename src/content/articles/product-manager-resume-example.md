@@ -1,12 +1,29 @@
 ---
-title: "Product Manager Resume Example: Bullets That Show Impact"
-description: "A product manager resume example with bullet formulas for discovery, delivery and outcomes, how to show impact without overclaiming, and tips for aspiring PMs."
-answer: "A product manager resume should show outcomes, not activities: the problem, what you shipped, and the measurable change in users, revenue, retention or cost. Name the product area and scale, show cross-functional leadership, and credit the team while being clear about your role."
+title: 'Product Manager Resume Example: Bullets That Show Impact'
+description: A product manager resume example with bullet formulas for discovery, delivery and outcomes, how to show impact without overclaiming, and tips for aspiring PMs.
+answer: 'A product manager resume should show outcomes, not activities: the problem, what you shipped, and the measurable change in users, revenue, retention or cost. Name the product area and scale, show cross-functional leadership, and credit the team while being clear about your role.'
 region: global
 category: examples-by-role
 format: examples
-keywords: ["product manager resume", "PM resume example", "product management resume", "associate product manager resume", "APM resume"]
+keywords:
+- product manager resume
+- PM resume example
+- product management resume
+- associate product manager resume
+- APM resume
 published: 2026-11-17
+faq:
+- q: What should a product manager resume show?
+  a: Products or features you owned, the problem each solved, how you worked with engineering and design, and measurable outcomes such as adoption, retention or revenue.
+- q: Do product managers need technical skills on a resume?
+  a: 'List what''s relevant: SQL, analytics tools, A/B testing, and familiarity with APIs or system design help, especially for technical PM roles.'
+- q: How do I move into product management from another role?
+  a: Highlight product-adjacent work you've done, such as gathering requirements, running experiments or launching features, and frame it with outcomes.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
 
 ## Bullet formula

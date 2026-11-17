@@ -1,13 +1,30 @@
 ---
-title: "How to Make a Resume in Google Docs (ATS-Friendly, Step by Step)"
-seoTitle: "How to Make an ATS-Friendly Resume in Google Docs"
-description: "Build a clean, ATS-friendly resume in Google Docs from a blank page: margins, fonts, headings, bullets, and downloading a proper PDF."
-answer: "Start from a blank Google Doc rather than a two-column template. Set 0.5–0.75 inch margins, use Arial or Calibri at 10.5–11 pt, type your name and contact details in the body, use Heading 2 for section titles, add bullets for achievements, then use File > Download > PDF document. Check the PDF by selecting its text."
+title: How to Make a Resume in Google Docs (ATS-Friendly, Step by Step)
+seoTitle: How to Make an ATS-Friendly Resume in Google Docs
+description: 'Build a clean, ATS-friendly resume in Google Docs from a blank page: margins, fonts, headings, bullets, and downloading a proper PDF.'
+answer: Start from a blank Google Doc rather than a two-column template. Set 0.5–0.75 inch margins, use Arial or Calibri at 10.5–11 pt, type your name and contact details in the body, use Heading 2 for section titles, add bullets for achievements, then use File > Download > PDF document. Check the PDF by selecting its text.
 region: global
 category: formats-and-templates
 format: how-to
-keywords: ["resume google docs", "google docs resume template", "how to make resume in google docs", "free resume template", "google docs CV"]
+keywords:
+- resume google docs
+- google docs resume template
+- how to make resume in google docs
+- free resume template
+- google docs CV
 published: 2026-11-17
+faq:
+- q: Are Google Docs resume templates ATS-friendly?
+  a: Some are, some aren't. Templates with two columns, tables or text in headers can confuse an ATS. Pick a single-column template or start from a blank document.
+- q: How do I download a Google Docs resume as a PDF?
+  a: Choose File, then Download, then PDF Document (.pdf). Open the PDF afterwards to check the layout.
+- q: Can I share my resume as a Google Docs link?
+  a: It's better to attach a PDF. Links can have permission problems, and many application forms only accept file uploads.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 Google Docs is free and works on a phone, which makes it a common choice. Some of its built-in resume templates use layout tables or side columns, so a blank page is the safer start.

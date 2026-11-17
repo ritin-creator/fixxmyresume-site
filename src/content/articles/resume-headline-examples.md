@@ -1,12 +1,29 @@
 ---
-title: "Resume Headline Examples: 40 One-Liners by Role and Level"
-description: "Resume headline examples for freshers, experienced professionals and managers across tech, finance, sales, marketing and operations, plus a simple formula."
-answer: "A resume headline is a single line under your name that states your role, level and strongest selling point, for example 'Senior Data Analyst | SQL, Python, Power BI | Retail pricing'. Keep it under about 12 words, use the job title you're targeting, and add one or two skills or a specialism."
+title: 'Resume Headline Examples: 40 One-Liners by Role and Level'
+description: Resume headline examples for freshers, experienced professionals and managers across tech, finance, sales, marketing and operations, plus a simple formula.
+answer: A resume headline is a single line under your name that states your role, level and strongest selling point, for example 'Senior Data Analyst | SQL, Python, Power BI | Retail pricing'. Keep it under about 12 words, use the job title you're targeting, and add one or two skills or a specialism.
 region: global
 category: resume-writing
 format: examples
-keywords: ["resume headline", "resume headline examples", "resume title", "headline for resume", "profile headline"]
+keywords:
+- resume headline
+- resume headline examples
+- resume title
+- headline for resume
+- profile headline
 published: 2026-11-17
+faq:
+- q: What is a resume headline?
+  a: A single line under your name that states your role and strongest qualification, for example 'Data Analyst | SQL, Power BI | 4 years in retail analytics'.
+- q: Is a resume headline the same as a summary?
+  a: 'No. A headline is one line, like a title. A summary is two or three sentences. Many resumes use both: the headline for a quick scan, the summary for context.'
+- q: How long should a resume headline be?
+  a: Under about 15 words, or one line. Lead with the job title you want and add two or three skills or a key number.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 ## The formula

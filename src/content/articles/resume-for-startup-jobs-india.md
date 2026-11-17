@@ -1,12 +1,29 @@
 ---
-title: "Resume for Startup Jobs in India: What Founders Look For"
-description: "How to write a resume for Indian startups: showing ownership, speed and range, side projects and links, and how it differs from a big-company resume."
-answer: "Startups look for ownership, speed and range. Lead with outcomes you drove end to end, show you can wear several hats, add links to work you've shipped (GitHub, portfolio, products, posts), and keep it short and direct. Mention side projects, freelancing and early-stage experience, and cut corporate jargon."
+title: 'Resume for Startup Jobs in India: What Founders Look For'
+description: 'How to write a resume for Indian startups: showing ownership, speed and range, side projects and links, and how it differs from a big-company resume.'
+answer: Startups look for ownership, speed and range. Lead with outcomes you drove end to end, show you can wear several hats, add links to work you've shipped (GitHub, portfolio, products, posts), and keep it short and direct. Mention side projects, freelancing and early-stage experience, and cut corporate jargon.
 region: india
 category: career-situations
 format: guide
-keywords: ["startup resume", "resume for startup jobs", "startup job India", "resume for early stage startup", "joining a startup resume"]
+keywords:
+- startup resume
+- resume for startup jobs
+- startup job India
+- resume for early stage startup
+- joining a startup resume
 published: 2026-11-17
+faq:
+- q: What do startup founders look for in a resume?
+  a: 'Ownership, speed, range and results: things you built or ran end to end, with numbers, and links to work they can see.'
+- q: Should a startup resume be different from a corporate one?
+  a: Yes. Lead with outcomes and projects rather than titles, and show you can work across functions.
+- q: Should I include side projects?
+  a: Yes, especially if they show initiative or skills the startup needs. Add links.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## What founders and early hiring managers want

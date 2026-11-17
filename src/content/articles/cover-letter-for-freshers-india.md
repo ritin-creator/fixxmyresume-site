@@ -1,13 +1,33 @@
 ---
-title: "Cover Letter for Freshers in India: Format and 5 Examples"
-description: "Cover letter format and examples for Indian freshers applying for IT, accounts, sales, marketing and HR jobs, plus a short email version for Naukri."
-answer: "A fresher cover letter should be under 200 words: one line on the role and why this company, two or three lines on your strongest project, internship or achievement with numbers, one line on the skills that match the job, and a polite close. For emails and portal messages, a five-line version works better."
+title: 'Cover Letter for Freshers in India: Format and 5 Examples'
+description: Cover letter format and examples for Indian freshers applying for IT, accounts, sales, marketing and HR jobs, plus a short email version for Naukri.
+answer: 'A fresher cover letter should be under 200 words: one line on the role and why this company, two or three lines on your strongest project, internship or achievement with numbers, one line on the skills that match the job, and a polite close. For emails and portal messages, a five-line version works better.'
 region: india
 category: cover-letters
 format: examples
-keywords: ["cover letter for freshers", "fresher cover letter India", "cover letter format for freshers", "job application letter fresher", "cover letter email"]
+keywords:
+- cover letter for freshers
+- fresher cover letter India
+- cover letter format for freshers
+- job application letter fresher
+- cover letter email
 published: 2026-11-17
+faq:
+- q: Do Indian freshers need a cover letter?
+  a: Not always. Many portals don't ask for one. But a short cover letter or email helps when applying directly to a company or a recruiter.
+- q: How long should a fresher's cover letter be?
+  a: Around 150 to 250 words, in three short paragraphs.
+- q: What should a fresher write in a cover letter?
+  a: The role you're applying for, one or two reasons you fit (a project, internship or skill), and a polite request for an interview.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
+
+> Want the general method first? Read [How to Write a Cover Letter](/articles/how-to-write-a-cover-letter/).
+
 
 ## Format
 

@@ -1,16 +1,34 @@
 ---
-title: "Should You Put a Photo on Your Resume? A Country-by-Country Guide"
-seoTitle: "Photo on Your Resume? A Country-by-Country Guide"
-description: "Whether to add a photo to your resume or CV depends on the country. See the norm for the US, UK, India, Europe, the Gulf and Asia, and when to skip it."
-answer: "In the US, UK, Canada, Ireland and Australia, leave the photo off: it isn't expected and employers avoid it to prevent bias. In much of continental Europe, the Gulf states and East Asia, a professional photo is common or expected. In India it's optional for corporate jobs and usually better left off unless the employer asks."
+title: Should You Put a Photo on Your Resume? A Country-by-Country Guide
+seoTitle: Photo on Your Resume? A Country-by-Country Guide
+description: Whether to add a photo to your resume or CV depends on the country. See the norm for the US, UK, India, Europe, the Gulf and Asia, and when to skip it.
+answer: 'In the US, UK, Canada, Ireland and Australia, leave the photo off: it isn''t expected and employers avoid it to prevent bias. In much of continental Europe, the Gulf states and East Asia, a professional photo is common or expected. In India it''s optional for corporate jobs and usually better left off unless the employer asks.'
 region: global
 category: working-abroad
 format: quick-answer
-keywords: ["photo on resume", "resume photo", "CV photo", "should I put photo on resume", "resume picture"]
+keywords:
+- photo on resume
+- resume photo
+- CV photo
+- should I put photo on resume
+- resume picture
 published: 2026-11-17
 faq:
-  - q: "Does a photo affect ATS parsing?"
-    a: "An image can't be read as text and some templates place it in a way that disrupts parsing. If you add one, keep it small and outside the main text flow."
+- q: Does a photo affect ATS parsing?
+  a: An image can't be read as text and some templates place it in a way that disrupts parsing. If you add one, keep it small and outside the main text flow.
+- q: Should I put a photo on my resume for jobs in India?
+  a: For most private-sector jobs in India, no. Leave it out unless the employer specifically asks.
+- q: Why don't US employers want a photo?
+  a: US anti-discrimination guidance advises employers not to ask for photos, so many recruiters remove resumes with photos to avoid any appearance of bias.
+sources:
+- title: 'U.S. EEOC: Prohibited employment policies and practices'
+  url: https://www.eeoc.gov/prohibited-employment-policiespractices
+- title: 'GOV.UK: Discrimination in recruitment'
+  url: https://www.gov.uk/employer-preventing-discrimination/recruitment
+- title: 'Europass (European Union): Create your Europass CV'
+  url: https://europass.europa.eu/en/create-europass-cv
+- title: 'UAE Government portal: Jobs'
+  url: https://u.ae/en/information-and-services/jobs
 ---
 
 | Country or region | Photo? | Notes |

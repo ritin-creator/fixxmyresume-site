@@ -1,13 +1,35 @@
 ---
-title: "15 Resume Mistakes Indian Job Seekers Make (and Quick Fixes)"
-description: "Resume mistakes common in India: biodata-style details, declarations, generic objectives, two-column templates and copy-paste skills, with quick fixes."
-answer: "The most common mistakes on Indian resumes are biodata habits (father's name, religion, DOB, declaration), generic objectives, two-column or photo templates that confuse ATS, duties without numbers, copied skill lists, inconsistent dates, and resumes longer than they need to be. Each takes minutes to fix."
+title: 15 Resume Mistakes Indian Job Seekers Make (and Quick Fixes)
+description: 'Resume mistakes common in India: biodata-style details, declarations, generic objectives, two-column templates and copy-paste skills, with quick fixes.'
+answer: The most common mistakes on Indian resumes are biodata habits (father's name, religion, DOB, declaration), generic objectives, two-column or photo templates that confuse ATS, duties without numbers, copied skill lists, inconsistent dates, and resumes longer than they need to be. Each takes minutes to fix.
 region: india
 category: resume-writing
 format: list
-keywords: ["resume mistakes India", "common resume mistakes", "resume errors freshers", "biodata mistakes", "resume tips India"]
+keywords:
+- resume mistakes India
+- common resume mistakes
+- resume errors freshers
+- biodata mistakes
+- resume tips India
 published: 2026-11-17
+faq:
+- q: Is it wrong to put father's name on a resume?
+  a: For private jobs it's unnecessary and takes space. Leave it out unless a form asks.
+- q: Should I write 'Curriculum Vitae' at the top?
+  a: No. Your name should be the title of the document.
+- q: Is a long resume a mistake?
+  a: Only if the extra pages aren't relevant. Freshers should stick to one page; experienced professionals to two.
+sources:
+- title: 'U.S. EEOC: Prohibited employment policies and practices'
+  url: https://www.eeoc.gov/prohibited-employment-policiespractices
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> Applying abroad too? See the general list of [25 Resume Mistakes That Cost You Interviews](/articles/resume-mistakes-to-avoid/).
+
 
 1. **Father's name, religion, caste, marital status.** Biodata leftovers. *Fix:* remove unless asked. See [personal details](/articles/personal-details-on-indian-resume/).
 2. **"Declaration: I hereby declare…" with signature and place.** *Fix:* delete for private jobs.

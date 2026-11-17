@@ -1,13 +1,35 @@
 ---
-title: "First Job Resume Example and Template (Copy the Structure)"
-description: "A complete first-job resume example you can follow line by line, with notes on why each part works and a plain-text template to fill in."
-answer: "A first-job resume should fit on one page: contact details, a two-line summary naming the job you want, education, two or three projects or internships with results, any part-time or volunteer work, and a short skills list matched to the job. The example below shows each section filled in."
+title: First Job Resume Example and Template (Copy the Structure)
+description: A complete first-job resume example you can follow line by line, with notes on why each part works and a plain-text template to fill in.
+answer: 'A first-job resume should fit on one page: contact details, a two-line summary naming the job you want, education, two or three projects or internships with results, any part-time or volunteer work, and a short skills list matched to the job. The example below shows each section filled in.'
 region: global
 category: freshers-and-students
 format: examples
-keywords: ["first job resume", "first resume example", "entry level resume example", "resume template for first job", "student resume example"]
+keywords:
+- first job resume
+- first resume example
+- entry level resume example
+- resume template for first job
+- student resume example
 published: 2026-11-17
+faq:
+- q: What should I put on my first resume?
+  a: Contact details, a short summary, education, skills, and any projects, internships, part-time jobs, volunteering or college activities with results.
+- q: Can I include school achievements on my first resume?
+  a: Yes, if they're recent and relevant, such as competitions, leadership roles or awards. Drop them once you have college or work achievements.
+- q: How long should a first resume be?
+  a: One page.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
 ---
+
+> Applying in India? See [Resume Format for Freshers in India](/articles/resume-format-for-freshers-india/). Writing from scratch with nothing to show? See [Resume With No Work Experience](/articles/resume-with-no-experience/).
+
 
 Below is a complete example for a fictional graduate applying for an entry-level marketing role, followed by a blank template.
 

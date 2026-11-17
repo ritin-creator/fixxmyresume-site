@@ -1,14 +1,36 @@
 ---
-title: "Software Engineer Resume Example (With Bullet Ideas by Level)"
-seoTitle: "Software Engineer Resume Example (Bullets by Level)"
-description: "A software engineer resume example: sample layout, strong bullet points from junior to senior, the skills section recruiters scan, and common mistakes."
-answer: "A strong software engineer resume leads with your target title and stack, lists experience with bullets that show what you built, the technology used and the impact (users, speed, reliability, cost), then a grouped skills section and links to GitHub or projects. Keep it to one page under 8 years of experience."
+title: Software Engineer Resume Example (With Bullet Ideas by Level)
+seoTitle: Software Engineer Resume Example (Bullets by Level)
+description: 'A software engineer resume example: sample layout, strong bullet points from junior to senior, the skills section recruiters scan, and common mistakes.'
+answer: A strong software engineer resume leads with your target title and stack, lists experience with bullets that show what you built, the technology used and the impact (users, speed, reliability, cost), then a grouped skills section and links to GitHub or projects. Keep it to one page under 8 years of experience.
 region: global
 category: examples-by-role
 format: examples
-keywords: ["software engineer resume", "software developer resume example", "developer resume", "SDE resume", "programmer resume"]
+keywords:
+- software engineer resume
+- software developer resume example
+- developer resume
+- SDE resume
+- programmer resume
 published: 2026-11-17
+faq:
+- q: Should a software engineer resume include a GitHub link?
+  a: Yes, if it shows real, readable projects. Pin your best repositories and make sure they have a short README.
+- q: How do I list programming languages on a resume?
+  a: Group them in a skills section by type (languages, frameworks, databases, cloud and tools), and list your strongest first. Only include what you could discuss in an interview.
+- q: How long should a software engineer resume be?
+  a: One page for under about five years of experience, two pages for senior engineers.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'U.S. Bureau of Labor Statistics: Occupational Outlook Handbook'
+  url: https://www.bls.gov/ooh/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> A fresher in India? See the [B.Tech Fresher Resume Example](/articles/btech-fresher-resume/) and [BCA/MCA Fresher Resume](/articles/bca-mca-fresher-resume/).
+
 
 ## Sample (fictional)
 

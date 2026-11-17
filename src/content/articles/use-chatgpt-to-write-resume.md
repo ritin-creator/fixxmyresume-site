@@ -1,18 +1,28 @@
 ---
-title: "How to Use ChatGPT or AI to Write Your Resume Without Sounding Generic"
-seoTitle: "How to Use ChatGPT to Write Your Resume (Without Clichés)"
-description: "Use ChatGPT, Gemini or Claude to draft and improve your resume while keeping it specific and true: prompts that work, what to check, what never to let AI do."
-answer: "Give the AI your real facts, the target job description and clear rules: no invented numbers, employers or skills, plain language, bullets starting with a verb. Ask it to rewrite one section at a time, then check every line against your actual work and replace generic phrases with specifics. Never paste in confidential employer data."
+title: How to Use ChatGPT or AI to Write Your Resume Without Sounding Generic
+seoTitle: How to Use ChatGPT to Write Your Resume (Without Clichés)
+description: 'Use ChatGPT, Gemini or Claude to draft and improve your resume while keeping it specific and true: prompts that work, what to check, what never to let AI do.'
+answer: 'Give the AI your real facts, the target job description and clear rules: no invented numbers, employers or skills, plain language, bullets starting with a verb. Ask it to rewrite one section at a time, then check every line against your actual work and replace generic phrases with specifics. Never paste in confidential employer data.'
 region: global
 category: resume-writing
 format: how-to
-keywords: ["ChatGPT resume", "AI resume writer", "use AI to write resume", "ChatGPT resume prompt", "AI resume builder"]
+keywords:
+- ChatGPT resume
+- AI resume writer
+- use AI to write resume
+- ChatGPT resume prompt
+- AI resume builder
 published: 2026-11-17
 faq:
-  - q: "Is it okay to use AI to write a resume?"
-    a: "Yes, as a drafting and editing tool. You are responsible for every claim, so check that each line is true and specific to you."
-  - q: "Why do AI-written resumes sound the same?"
-    a: "Without specific facts, AI fills space with common phrases like 'results-driven professional'. Feeding it real numbers and examples fixes that."
+- q: Is it okay to use AI to write a resume?
+  a: Yes, as a drafting and editing tool. You are responsible for every claim, so check that each line is true and specific to you.
+- q: Why do AI-written resumes sound the same?
+  a: Without specific facts, AI fills space with common phrases like 'results-driven professional'. Feeding it real numbers and examples fixes that.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 AI writing tools are good at structure, grammar and phrasing. They're bad at knowing what you actually did. Most weak AI resumes come from asking the tool to fill gaps it can't know.

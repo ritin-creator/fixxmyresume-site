@@ -1,18 +1,33 @@
 ---
-title: "How to Write a Resume With No Work Experience"
-description: "No work experience? Build a strong first resume from education, projects, internships, volunteering and part-time work, with a sample layout and bullets."
-answer: "Lead with a short summary of the role you want, then education, then projects, internships, volunteering, freelance work or part-time jobs written as achievements with numbers. Add skills that match the job and any certifications. Keep it to one page and make every line show something you did."
+title: How to Write a Resume With No Work Experience
+description: No work experience? Build a strong first resume from education, projects, internships, volunteering and part-time work, with a sample layout and bullets.
+answer: Lead with a short summary of the role you want, then education, then projects, internships, volunteering, freelance work or part-time jobs written as achievements with numbers. Add skills that match the job and any certifications. Keep it to one page and make every line show something you did.
 region: global
 category: freshers-and-students
 format: guide
-keywords: ["resume with no experience", "no experience resume", "first resume", "entry level resume", "student resume"]
+keywords:
+- resume with no experience
+- no experience resume
+- first resume
+- entry level resume
+- student resume
 published: 2026-11-17
 faq:
-  - q: "What counts as experience on a resume?"
-    a: "Internships, projects, volunteering, freelance or gig work, part-time jobs, family business work, college societies, competitions and leadership roles all count if you describe what you did and achieved."
-  - q: "Should I leave the experience section empty?"
-    a: "No. Rename it to 'Projects and experience' and include internships, projects and volunteering, or lead with education and projects instead."
+- q: What counts as experience on a resume?
+  a: Internships, projects, volunteering, freelance or gig work, part-time jobs, family business work, college societies, competitions and leadership roles all count if you describe what you did and achieved.
+- q: Should I leave the experience section empty?
+  a: No. Rename it to 'Projects and experience' and include internships, projects and volunteering, or lead with education and projects instead.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
 ---
+
+> Applying in India? See [Resume Format for Freshers in India](/articles/resume-format-for-freshers-india/) for marks, CGPA and campus placement norms.
+
 
 Everyone's first resume has this problem, and recruiters hiring for entry-level roles know it. They're not looking for years of experience; they're looking for evidence you can learn, finish things and work with people.
 

@@ -1,17 +1,27 @@
 ---
-title: "30 Resume Summary Examples (and a Formula That Works)"
-description: "Copy-ready resume summary examples for freshers, mid-career, managers and career changers, plus a simple three-part formula to write your own in five minutes."
-answer: "A strong resume summary is two or three lines: your target job title and years of experience, your top specialities or tools, and one concrete result. For example: 'Data analyst with 4 years in retail, skilled in SQL and Power BI. Built dashboards used by 40 store managers that cut weekly reporting time by 60%.'"
+title: 30 Resume Summary Examples (and a Formula That Works)
+description: Copy-ready resume summary examples for freshers, mid-career, managers and career changers, plus a simple three-part formula to write your own in five minutes.
+answer: 'A strong resume summary is two or three lines: your target job title and years of experience, your top specialities or tools, and one concrete result. For example: ''Data analyst with 4 years in retail, skilled in SQL and Power BI. Built dashboards used by 40 store managers that cut weekly reporting time by 60%.'''
 region: global
 category: resume-writing
 format: examples
-keywords: ["resume summary examples", "professional summary", "resume summary", "profile summary", "summary for resume"]
+keywords:
+- resume summary examples
+- professional summary
+- resume summary
+- profile summary
+- summary for resume
 published: 2026-11-17
 faq:
-  - q: "How long should a resume summary be?"
-    a: "Two to three lines, or about 30 to 60 words. Longer than that and recruiters skip it."
-  - q: "Should a fresher write a summary or an objective?"
-    a: "Either works if it's specific. A fresher summary names the target role, the degree, and one strong project or internship."
+- q: How long should a resume summary be?
+  a: Two to three lines, or about 30 to 60 words. Longer than that and recruiters skip it.
+- q: Should a fresher write a summary or an objective?
+  a: Either works if it's specific. A fresher summary names the target role, the degree, and one strong project or internship.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 The summary sits at the top of your resume and answers the recruiter's first question: "Is this person a fit for this role?"
@@ -69,6 +79,30 @@ Optional third line: what you're looking for next, if you're changing direction.
 28. **Remote role:** Customer success manager with 4 years in fully remote teams across three time zones, retaining 96% of a $3M book of accounts.
 29. **Gig to full-time:** Delivery partner moving into a warehouse supervisor role, with 3 years and 9,000+ deliveries at a 4.9 rating.
 30. **Internal promotion:** Senior analyst applying for team lead, mentoring 3 junior analysts and owning the weekly business review.
+
+## Write yours in five minutes: a worked example
+
+Take the formula and fill it in from your own facts. Here's how a sales coordinator with three years' experience builds one.
+
+**Step 1. Role and experience:** "Sales coordinator with 3 years in B2B industrial supplies"
+
+**Step 2. Strongest skills for the target job:** "order processing, CRM (Zoho), and dealer communication"
+
+**Step 3. One result with a number:** "cut order-to-dispatch time from 5 days to 3"
+
+**Step 4. Target (optional):** "looking to move into an inside sales role"
+
+Put together:
+
+> Sales coordinator with 3 years in B2B industrial supplies, handling order processing, Zoho CRM and communication with 45 dealers. Cut order-to-dispatch time from 5 days to 3 by fixing the approval workflow. Looking to move into inside sales.
+
+That's 44 words, specific and true. Now check it against the job: if the job ad says "lead qualification" and you've done it, swap in that phrase.
+
+## Using your summary on Naukri and LinkedIn
+
+- **Naukri profile summary:** your resume summary works almost as is. Add one more line with your key domain or tools, because recruiters search this text.
+- **LinkedIn About:** expand to 3–5 short paragraphs. You can write in the first person here ("I help…"), add a line about what you're looking for, and list skills at the end.
+- **Resume headline:** compress the summary into one line, for example `Sales Coordinator | B2B Industrial | Zoho CRM | Pune`.
 
 ## Mistakes to avoid
 

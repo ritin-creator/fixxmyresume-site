@@ -1,14 +1,38 @@
 ---
-title: "Resume for Jobs Abroad From India: US, UK, Canada, Gulf, Europe, Australia"
-seoTitle: "Resume for Jobs Abroad From India: US, UK, Gulf & More"
-description: "Adapt an Indian resume for jobs abroad: length, photo, personal details, salary and wording for the US, UK, Canada, Gulf, Germany, Australia and Singapore."
-answer: "Adapt your Indian resume to each country: one page for the US, two pages for the UK, Canada and Australia, no photo or date of birth in the US, UK, Canada and Australia, photo and nationality common in the Gulf and Germany. Convert grades and salaries into terms locals understand, state your visa or work authorisation status, and use the local word (resume or CV)."
+title: 'Resume for Jobs Abroad From India: US, UK, Canada, Gulf, Europe, Australia'
+seoTitle: 'Resume for Jobs Abroad From India: US, UK, Gulf & More'
+description: 'Adapt an Indian resume for jobs abroad: length, photo, personal details, salary and wording for the US, UK, Canada, Gulf, Germany, Australia and Singapore.'
+answer: 'Adapt your Indian resume to each country: one page for the US, two pages for the UK, Canada and Australia, no photo or date of birth in the US, UK, Canada and Australia, photo and nationality common in the Gulf and Germany. Convert grades and salaries into terms locals understand, state your visa or work authorisation status, and use the local word (resume or CV).'
 region: india
 category: working-abroad
 format: comparison
-keywords: ["resume for jobs abroad", "international resume", "CV for overseas jobs", "Canada resume format", "UK CV format from India"]
+keywords:
+- resume for jobs abroad
+- international resume
+- CV for overseas jobs
+- Canada resume format
+- UK CV format from India
 published: 2026-11-17
+faq:
+- q: Should I change my resume format for each country?
+  a: Yes. Length, photo, personal details and even spelling (CV vs resume) follow local norms. Adjust before each application.
+- q: Should I convert my salary to the local currency?
+  a: Don't put salary on the resume at all. Discuss it separately, in the currency of the job.
+- q: Do I need to mention visa status?
+  a: Yes, in one line near your contact details, such as 'Open to relocation; will require sponsorship'.
+sources:
+- title: 'Europass (European Union): Create your Europass CV'
+  url: https://europass.europa.eu/en/create-europass-cv
+- title: 'UAE Government portal: Jobs'
+  url: https://u.ae/en/information-and-services/jobs
+- title: 'USAJOBS Help: What to include in a federal resume'
+  url: https://help.usajobs.gov/faq/application/documents/resume/what-to-include
+- title: 'U.S. EEOC: Prohibited employment policies and practices'
+  url: https://www.eeoc.gov/prohibited-employment-policiespractices
 ---
+
+> Applying to the Gulf? See the detailed [Resume for Gulf Jobs From India](/articles/gulf-job-resume-uae-saudi/).
+
 
 ## Country comparison
 

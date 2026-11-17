@@ -1,13 +1,30 @@
 ---
-title: "Chartered Accountant (CA) Resume Example for Industry and Practice"
-seoTitle: "Chartered Accountant (CA) Resume Example"
-description: "A CA resume example for newly qualified and experienced chartered accountants, with bullets for audit, tax, FP&A and controllership roles."
-answer: "A CA resume should state your qualification year and any rank up front, then lead with the area you're targeting (audit, tax, FP&A, controllership or advisory). Use bullets that show scale (client size, turnover, entities) and outcomes (closes shortened, savings, audits delivered), and list systems like SAP, Oracle, Tally or Zoho plus standards such as Ind AS and IFRS."
+title: Chartered Accountant (CA) Resume Example for Industry and Practice
+seoTitle: Chartered Accountant (CA) Resume Example
+description: A CA resume example for newly qualified and experienced chartered accountants, with bullets for audit, tax, FP&A and controllership roles.
+answer: A CA resume should state your qualification year and any rank up front, then lead with the area you're targeting (audit, tax, FP&A, controllership or advisory). Use bullets that show scale (client size, turnover, entities) and outcomes (closes shortened, savings, audits delivered), and list systems like SAP, Oracle, Tally or Zoho plus standards such as Ind AS and IFRS.
 region: india
 category: examples-by-role
 format: examples
-keywords: ["CA resume", "chartered accountant resume", "CA fresher resume", "newly qualified CA resume", "finance controller resume"]
+keywords:
+- CA resume
+- chartered accountant resume
+- CA fresher resume
+- newly qualified CA resume
+- finance controller resume
 published: 2026-11-17
+faq:
+- q: What should a CA put at the top of their resume?
+  a: Name, contact, then a summary with your qualification year, any rank, and the area you're targeting, such as audit, tax, FP&A or controllership.
+- q: Should a CA mention articleship on their resume?
+  a: Yes, especially in the first few years after qualifying. Show the firm, the type of clients and the work you led.
+- q: Which systems should a CA list?
+  a: The ones you've actually used, such as SAP, Oracle, Tally, Zoho Books, and advanced Excel, plus standards like Ind AS and IFRS.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## Summary examples

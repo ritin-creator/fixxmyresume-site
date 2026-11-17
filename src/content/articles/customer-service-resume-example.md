@@ -1,14 +1,36 @@
 ---
-title: "Customer Service Resume Example (Call Centre, Chat and Support)"
-seoTitle: "Customer Service Resume Example (Call Centre, Chat)"
-description: "Customer service resume example and bullets for call centre, chat, email and retail support roles, built on volume, satisfaction scores and resolution times."
-answer: "A customer service resume should show volume (calls, chats or tickets a day), quality (CSAT, NPS, quality scores), speed (average handle time, first-contact resolution) and the systems you used. Add languages spoken and any escalations, training or process fixes you handled."
+title: Customer Service Resume Example (Call Centre, Chat and Support)
+seoTitle: Customer Service Resume Example (Call Centre, Chat)
+description: Customer service resume example and bullets for call centre, chat, email and retail support roles, built on volume, satisfaction scores and resolution times.
+answer: A customer service resume should show volume (calls, chats or tickets a day), quality (CSAT, NPS, quality scores), speed (average handle time, first-contact resolution) and the systems you used. Add languages spoken and any escalations, training or process fixes you handled.
 region: global
 category: examples-by-role
 format: examples
-keywords: ["customer service resume", "customer support resume", "call center resume", "BPO resume", "customer service representative resume"]
+keywords:
+- customer service resume
+- customer support resume
+- call center resume
+- BPO resume
+- customer service representative resume
 published: 2026-11-17
+faq:
+- q: What should a customer service resume include?
+  a: The channels you handled (phone, chat, email), volume per day, quality or CSAT scores, systems you used such as a CRM or ticketing tool, and languages you speak.
+- q: What skills matter most for customer service jobs?
+  a: Clear communication, patience, problem solving, typing speed for chat roles, and familiarity with CRM or helpdesk software. Show them with numbers where you can.
+- q: How do I write customer service experience with no numbers?
+  a: 'Use whatever you can measure: tickets per day, average response time, escalations reduced, or positive feedback received. Approximate honestly, for example ''around 60 calls a day''.'
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'U.S. Bureau of Labor Statistics: Occupational Outlook Handbook'
+  url: https://www.bls.gov/ooh/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
+
+> Applying for BPO or support roles in India? See [BPO and Customer Support Resume for India](/articles/bpo-customer-support-resume/).
+
 
 ## Sample bullets (fictional)
 

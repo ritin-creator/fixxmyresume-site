@@ -1,13 +1,30 @@
 ---
-title: "How to Write the Projects Section in a Fresher Resume (With Examples)"
-seoTitle: "Projects Section in a Fresher Resume (With Examples)"
-description: "Write a projects section that gets freshers shortlisted: which projects to pick, a four-part format, and examples for IT, commerce, marketing and engineering."
-answer: "Pick two or three projects closest to the job, and for each give a title, the tools used, two bullets on what you built or analysed and the result (users, accuracy, time saved, marks, money), plus a link if it's online. Be ready to explain every project in detail in interviews."
+title: How to Write the Projects Section in a Fresher Resume (With Examples)
+seoTitle: Projects Section in a Fresher Resume (With Examples)
+description: 'Write a projects section that gets freshers shortlisted: which projects to pick, a four-part format, and examples for IT, commerce, marketing and engineering.'
+answer: Pick two or three projects closest to the job, and for each give a title, the tools used, two bullets on what you built or analysed and the result (users, accuracy, time saved, marks, money), plus a link if it's online. Be ready to explain every project in detail in interviews.
 region: india
 category: freshers-and-students
 format: how-to
-keywords: ["project section in resume", "how to write projects in resume", "academic projects resume", "final year project resume", "resume projects for freshers"]
+keywords:
+- project section in resume
+- how to write projects in resume
+- academic projects resume
+- final year project resume
+- resume projects for freshers
 published: 2026-11-17
+faq:
+- q: How many projects should a fresher list?
+  a: Two or three. Quality matters more than count.
+- q: Should I include group projects?
+  a: Yes, but say clearly what you did yourself, for example 'Built the payment module and API in a 4-person team'.
+- q: Should I add project links?
+  a: 'Yes, if they work: a GitHub repository, live demo or report. Check every link before applying.'
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
 ---
 
 For freshers, projects are the main evidence of skill. Interviewers often spend most of the technical round on them.

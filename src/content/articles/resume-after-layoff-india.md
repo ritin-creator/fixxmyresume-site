@@ -1,12 +1,29 @@
 ---
-title: "Resume After a Layoff: What to Write and How to Bounce Back"
-description: "How to update your resume after a layoff in India: whether to mention it, how to show your last role, explaining it to recruiters, and a 30-day job search plan."
-answer: "You don't need to write 'laid off' on your resume: list your last role with its end date and achievements as usual. If asked, say it plainly: 'my role was part of a company-wide restructuring'. Update your summary, add recent results, refresh your Naukri and LinkedIn profiles, and set your notice period to immediate."
+title: 'Resume After a Layoff: What to Write and How to Bounce Back'
+description: 'How to update your resume after a layoff in India: whether to mention it, how to show your last role, explaining it to recruiters, and a 30-day job search plan.'
+answer: 'You don''t need to write ''laid off'' on your resume: list your last role with its end date and achievements as usual. If asked, say it plainly: ''my role was part of a company-wide restructuring''. Update your summary, add recent results, refresh your Naukri and LinkedIn profiles, and set your notice period to immediate.'
 region: india
 category: career-situations
 format: guide
-keywords: ["resume after layoff", "laid off resume", "how to explain layoff", "job search after layoff", "redundancy resume"]
+keywords:
+- resume after layoff
+- laid off resume
+- how to explain layoff
+- job search after layoff
+- redundancy resume
 published: 2026-11-17
+faq:
+- q: Should I write 'laid off' on my resume?
+  a: No. List the job with its real end date. Explain briefly in applications or interviews if asked.
+- q: How do I explain a layoff in an interview?
+  a: Keep it short and factual, for example 'My role was part of a company-wide layoff of 15% of staff', then move to what you achieved and what you want next.
+- q: Should I take a temporary job after a layoff?
+  a: If it helps financially or keeps skills sharp, yes. Contract and freelance work can go on your resume like any other role.
+sources:
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 Layoffs happen to strong performers, especially in tech, startups and during restructurings. Recruiters know this.

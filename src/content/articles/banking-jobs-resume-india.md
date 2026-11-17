@@ -1,13 +1,32 @@
 ---
-title: "Resume for Banking Jobs in India (Private Banks, NBFCs and Fintech)"
-seoTitle: "Resume for Banking Jobs in India: Banks, NBFCs, Fintech"
-description: "How to write a resume for private bank, NBFC and fintech roles such as relationship manager, sales officer, credit analyst and operations, with sample bullets."
-answer: "For private banking, NBFC and fintech roles, show the numbers banks track: targets achieved, accounts or loans sourced, book size, cross-sell, collections, compliance and customer satisfaction. Name the products (CASA, home loans, gold loans, credit cards, mutual funds) and certifications such as NISM or IRDAI where relevant."
+title: Resume for Banking Jobs in India (Private Banks, NBFCs and Fintech)
+seoTitle: 'Resume for Banking Jobs in India: Banks, NBFCs, Fintech'
+description: How to write a resume for private bank, NBFC and fintech roles such as relationship manager, sales officer, credit analyst and operations, with sample bullets.
+answer: 'For private banking, NBFC and fintech roles, show the numbers banks track: targets achieved, accounts or loans sourced, book size, cross-sell, collections, compliance and customer satisfaction. Name the products (CASA, home loans, gold loans, credit cards, mutual funds) and certifications such as NISM or IRDAI where relevant.'
 region: india
 category: examples-by-role
 format: examples
-keywords: ["banking resume", "bank job resume", "relationship manager resume", "NBFC resume", "bank PO resume"]
+keywords:
+- banking resume
+- bank job resume
+- relationship manager resume
+- NBFC resume
+- bank PO resume
 published: 2026-11-17
+faq:
+- q: Which certifications help a banking resume in India?
+  a: NISM certifications for mutual funds and securities roles, IRDAI-related licences for insurance sales, and JAIIB or CAIIB for bank employees. List only those you have passed.
+- q: What should a relationship manager resume show?
+  a: Book size, number of clients managed, products sold, cross-sell ratio, targets achieved and any portfolio growth, in rupees and percentages.
+- q: How do I get into banking as a fresher?
+  a: Show customer-facing experience, sales internships, numerical skills and any banking certifications, and apply for sales officer, relationship executive or operations trainee roles.
+sources:
+- title: National Institute of Securities Markets (NISM) certifications
+  url: https://www.nism.ac.in/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 Public sector bank recruitment runs through competitive exams and official application forms, which collect your details in their own format. This guide is for private banks, NBFCs, small finance banks and fintech companies, where a resume matters.

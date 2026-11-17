@@ -1,12 +1,31 @@
 ---
-title: "B.Tech Fresher Resume Example (CSE, IT, ECE, Mechanical)"
-description: "A B.Tech fresher resume example with sections, sample project and internship bullets for CSE, IT, ECE and mechanical, and the skills recruiters filter for."
-answer: "A B.Tech fresher resume should fit one page and lead with a two-line summary, then skills, two or three technical projects with tools and results, internships, education with CGPA and class XII/X marks, and certifications or coding achievements. Tailor the skills and projects to the branch and the role."
+title: B.Tech Fresher Resume Example (CSE, IT, ECE, Mechanical)
+description: A B.Tech fresher resume example with sections, sample project and internship bullets for CSE, IT, ECE and mechanical, and the skills recruiters filter for.
+answer: A B.Tech fresher resume should fit one page and lead with a two-line summary, then skills, two or three technical projects with tools and results, internships, education with CGPA and class XII/X marks, and certifications or coding achievements. Tailor the skills and projects to the branch and the role.
 region: india
 category: examples-by-role
 format: examples
-keywords: ["B.Tech fresher resume", "engineering fresher resume", "BTech resume format", "CSE fresher resume", "mechanical engineer fresher resume"]
+keywords:
+- B.Tech fresher resume
+- engineering fresher resume
+- BTech resume format
+- CSE fresher resume
+- mechanical engineer fresher resume
 published: 2026-11-17
+faq:
+- q: How many projects should a B.Tech fresher list?
+  a: Two or three strong ones, including your final-year project. Each should show the problem, the tech used and a result.
+- q: Should B.Tech freshers mention backlogs?
+  a: If the application asks, answer honestly. On the resume, list CGPA and the year of passing; there's no need to add a backlog line unless asked.
+- q: Is a B.Tech fresher resume one page?
+  a: Yes. One page is standard for freshers.
+sources:
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: TCS iON National Qualifier Test (NQT)
+  url: https://www.tcsion.com/hub/national-qualifier-test/
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 ## Sample (fictional, CSE)

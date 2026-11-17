@@ -1,13 +1,32 @@
 ---
-title: "Campus Placement Resume: How to Get Shortlisted in Your College Drive"
-seoTitle: "Campus Placement Resume: How to Get Shortlisted"
-description: "Write a campus placement resume that clears shortlisting: what recruiters check, your college format, CGPA, projects, internships and leadership roles."
-answer: "Campus placement resumes are usually screened on CGPA cut-offs, then on projects, internships and positions of responsibility. Follow your college's template if it has one, put CGPA and backlogs clearly, describe two or three projects and internships with tools and results, and add one or two leadership roles with numbers. Keep it to one page."
+title: 'Campus Placement Resume: How to Get Shortlisted in Your College Drive'
+seoTitle: 'Campus Placement Resume: How to Get Shortlisted'
+description: 'Write a campus placement resume that clears shortlisting: what recruiters check, your college format, CGPA, projects, internships and leadership roles.'
+answer: Campus placement resumes are usually screened on CGPA cut-offs, then on projects, internships and positions of responsibility. Follow your college's template if it has one, put CGPA and backlogs clearly, describe two or three projects and internships with tools and results, and add one or two leadership roles with numbers. Keep it to one page.
 region: india
 category: freshers-and-students
 format: guide
-keywords: ["campus placement resume", "placement resume", "resume for campus placement", "college placement resume", "on campus resume"]
+keywords:
+- campus placement resume
+- placement resume
+- resume for campus placement
+- college placement resume
+- on campus resume
 published: 2026-11-17
+faq:
+- q: What do companies check first in a campus placement resume?
+  a: Eligibility (branch, CGPA or percentage, backlogs, year of passing), then skills, projects and internships.
+- q: Should my campus placement resume follow the college format?
+  a: Yes, if the placement cell gives one. Fill it carefully and keep your own one-page resume for off-campus applications.
+- q: How do I stand out in campus placements?
+  a: Strong projects you can explain, internships, coding or case-competition results, and a clean resume with no errors.
+sources:
+- title: AICTE Internship Portal
+  url: https://internship.aicte-india.org/
+- title: TCS iON National Qualifier Test (NQT)
+  url: https://www.tcsion.com/hub/national-qualifier-test/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
 
 ## How shortlisting usually works

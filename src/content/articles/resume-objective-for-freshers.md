@@ -1,14 +1,34 @@
 ---
-title: "Resume Objective for Freshers: 25 Examples That Aren't Generic"
-seoTitle: "Resume Objective for Freshers: 25 Examples"
-description: "Career objective examples for fresher resumes in India by field: engineering, IT, commerce, MBA, BBA, science, arts, nursing and support, and what to avoid."
-answer: "A good fresher objective is one or two lines naming the exact role you want, your degree, and one specific strength or result, for example: 'B.Com graduate seeking an accounts executive role, with a 6-month internship processing 300+ invoices in Tally Prime.' Avoid generic lines about a 'reputed organisation' and 'growth'."
+title: 'Resume Objective for Freshers: 25 Examples That Aren''t Generic'
+seoTitle: 'Resume Objective for Freshers: 25 Examples'
+description: 'Career objective examples for fresher resumes in India by field: engineering, IT, commerce, MBA, BBA, science, arts, nursing and support, and what to avoid.'
+answer: 'A good fresher objective is one or two lines naming the exact role you want, your degree, and one specific strength or result, for example: ''B.Com graduate seeking an accounts executive role, with a 6-month internship processing 300+ invoices in Tally Prime.'' Avoid generic lines about a ''reputed organisation'' and ''growth''.'
 region: india
 category: freshers-and-students
 format: examples
-keywords: ["resume objective for freshers", "career objective for fresher", "objective for resume", "fresher resume objective examples", "career objective examples"]
+keywords:
+- resume objective for freshers
+- career objective for fresher
+- objective for resume
+- fresher resume objective examples
+- career objective examples
 published: 2026-11-17
+faq:
+- q: Should freshers write an objective?
+  a: 'A short, specific one is fine: two lines naming the role and your strongest relevant skill or project. Generic objectives don''t help.'
+- q: How long should a fresher's objective be?
+  a: One to two lines, about 25 to 40 words.
+- q: What should I avoid in a resume objective?
+  a: Phrases like 'seeking a challenging position in a reputed organisation', which say nothing about you.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: National Career Service, Government of India
+  url: https://www.ncs.gov.in/
 ---
+
+> Not sure whether you need an objective or a summary? See [Resume Objective vs Summary](/articles/resume-objective-vs-summary/).
+
 
 ## Formula
 

@@ -1,12 +1,31 @@
 ---
-title: "Resume and Hiring Glossary: 45 Terms Explained Simply"
-description: "Plain-English definitions of resume, ATS and hiring terms: ATS, parsing, keyword, CTC, notice period, knockout question, JD, background verification and more."
-answer: "This glossary defines the terms job seekers meet most often, from ATS, parsing and keyword matching to CTC, notice period, offer letter and background verification, in one or two plain sentences each, with links to deeper guides."
+title: 'Resume and Hiring Glossary: 45 Terms Explained Simply'
+description: 'Plain-English definitions of resume, ATS and hiring terms: ATS, parsing, keyword, CTC, notice period, knockout question, JD, background verification and more.'
+answer: This glossary defines the terms job seekers meet most often, from ATS, parsing and keyword matching to CTC, notice period, offer letter and background verification, in one or two plain sentences each, with links to deeper guides.
 region: global
 category: ats-and-keywords
 format: glossary
-keywords: ["resume glossary", "hiring terms", "ATS meaning", "recruitment terms", "job search terms"]
+keywords:
+- resume glossary
+- hiring terms
+- ATS meaning
+- recruitment terms
+- job search terms
 published: 2026-11-17
+faq:
+- q: What does ATS stand for?
+  a: 'Applicant tracking system: software employers use to collect applications, store resumes, and let recruiters search and filter candidates.'
+- q: What is the difference between hard skills and soft skills?
+  a: Hard skills are teachable and testable, such as Excel, Python or GST filing. Soft skills are how you work, such as communication or teamwork, and are best shown through results rather than listed.
+- q: What is a resume summary?
+  a: Two or three lines at the top of a resume that say who you are professionally, what you're good at and the role you want. It replaces the older career objective.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'National Careers Service (UK): How to write a CV'
+  url: https://nationalcareers.service.gov.uk/careers-advice/cv-sections
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 ## Resume and documents

@@ -1,17 +1,29 @@
 ---
-title: "Career Change Resume: How to Reposition Your Experience"
-description: "Changing careers? How to write a resume that connects your past experience to a new field, using a hybrid format, transferable skills and targeted projects."
-answer: "Use a hybrid format: a summary that names your new target role, a short skills block of transferable and newly learned skills, then your work history rewritten to highlight the parts relevant to the new field. Add courses, certifications and projects in the new field. Drop jargon from your old industry that a new employer won't recognise."
+title: 'Career Change Resume: How to Reposition Your Experience'
+description: Changing careers? How to write a resume that connects your past experience to a new field, using a hybrid format, transferable skills and targeted projects.
+answer: 'Use a hybrid format: a summary that names your new target role, a short skills block of transferable and newly learned skills, then your work history rewritten to highlight the parts relevant to the new field. Add courses, certifications and projects in the new field. Drop jargon from your old industry that a new employer won''t recognise.'
 region: global
 category: career-situations
 format: guide
-keywords: ["career change resume", "career changer resume", "transferable skills resume", "changing careers resume", "resume for career switch"]
+keywords:
+- career change resume
+- career changer resume
+- transferable skills resume
+- changing careers resume
+- resume for career switch
 published: 2026-11-17
 faq:
-  - q: "Should I explain my career change on my resume?"
-    a: "Briefly, in the summary: name the new role and the bridge from your past ('teacher moving into instructional design'). Save the full story for the cover letter or interview."
-  - q: "Do I need a new qualification to switch careers?"
-    a: "Not always, but a recognised course or certificate plus one or two real projects makes the switch much more believable."
+- q: Should I explain my career change on my resume?
+  a: 'Briefly, in the summary: name the new role and the bridge from your past (''teacher moving into instructional design''). Save the full story for the cover letter or interview.'
+- q: Do I need a new qualification to switch careers?
+  a: Not always, but a recognised course or certificate plus one or two real projects makes the switch much more believable.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
 ---
 
 A career changer's problem isn't a lack of experience; it's experience written for the wrong reader. A recruiter in your new field has to see the connection in a few seconds.

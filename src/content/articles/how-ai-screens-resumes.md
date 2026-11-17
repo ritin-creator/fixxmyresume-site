@@ -1,17 +1,27 @@
 ---
-title: "How AI Screens Resumes in 2026, and How to Write for It"
-description: "What AI resume screening tools look at, how they differ from old keyword filters, and how to write a resume that both AI and human recruiters rank well."
-answer: "AI screening tools read your resume for meaning, not just exact keywords: they compare your titles, skills, experience and results with the job and rank or summarise candidates for recruiters. To do well, use a clean readable format, state your target role clearly, show skills inside real achievements, use the job's terminology where true, and keep claims specific and consistent."
+title: How AI Screens Resumes in 2026, and How to Write for It
+description: What AI resume screening tools look at, how they differ from old keyword filters, and how to write a resume that both AI and human recruiters rank well.
+answer: 'AI screening tools read your resume for meaning, not just exact keywords: they compare your titles, skills, experience and results with the job and rank or summarise candidates for recruiters. To do well, use a clean readable format, state your target role clearly, show skills inside real achievements, use the job''s terminology where true, and keep claims specific and consistent.'
 region: global
 category: ats-and-keywords
 format: guide
-keywords: ["AI resume screening", "AI recruiting", "AI resume screener", "how AI reads resumes", "resume for AI"]
+keywords:
+- AI resume screening
+- AI recruiting
+- AI resume screener
+- how AI reads resumes
+- resume for AI
 published: 2026-11-17
 faq:
-  - q: "Can AI detect a resume written by ChatGPT?"
-    a: "Detection is unreliable, but generic AI text is easy for people to spot: vague claims, repeated phrases and no specifics. Specific facts and numbers read as genuine whoever drafted them."
-  - q: "Do AI screeners reject people automatically?"
-    a: "It varies by employer and law. Many tools rank or summarise for a recruiter rather than reject outright, and some places regulate automated hiring decisions."
+- q: Can AI detect a resume written by ChatGPT?
+  a: 'Detection is unreliable, but generic AI text is easy for people to spot: vague claims, repeated phrases and no specifics. Specific facts and numbers read as genuine whoever drafted them.'
+- q: Do AI screeners reject people automatically?
+  a: It varies by employer and law. Many tools rank or summarise for a recruiter rather than reject outright, and some places regulate automated hiring decisions.
+sources:
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+- title: 'Job Bank, Government of Canada: How to write a good resume'
+  url: https://www.jobbank.gc.ca/findajob/resources/write-good-resume
 ---
 
 Older applicant tracking systems mostly matched exact words. Newer tools, many built on large language models, read a resume more like a person would: they summarise it, compare it with the job, and rank candidates. Recruiters then look at the top of that list.

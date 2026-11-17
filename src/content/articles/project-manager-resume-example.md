@@ -1,12 +1,31 @@
 ---
-title: "Project Manager Resume Example: Scope, Budget and Delivery"
-description: "A project manager resume example with bullets showing scope, budget, timeline and outcomes for IT, construction and operations projects, plus certifications."
-answer: "A project manager resume should show the scale and results of the projects you delivered: budget, team size, timeline, and whether it finished on time and on budget, plus the business outcome. Name the methods (Agile, Scrum, Waterfall, PRINCE2) and certifications (PMP, CSM) that the job asks for."
+title: 'Project Manager Resume Example: Scope, Budget and Delivery'
+description: A project manager resume example with bullets showing scope, budget, timeline and outcomes for IT, construction and operations projects, plus certifications.
+answer: 'A project manager resume should show the scale and results of the projects you delivered: budget, team size, timeline, and whether it finished on time and on budget, plus the business outcome. Name the methods (Agile, Scrum, Waterfall, PRINCE2) and certifications (PMP, CSM) that the job asks for.'
 region: global
 category: examples-by-role
 format: examples
-keywords: ["project manager resume", "project manager resume example", "PMP resume", "IT project manager resume", "program manager resume"]
+keywords:
+- project manager resume
+- project manager resume example
+- PMP resume
+- IT project manager resume
+- program manager resume
 published: 2026-11-17
+faq:
+- q: What should a project manager resume include?
+  a: Project scope, budget, team size, timeline and results, plus methodologies (Agile, Scrum, Waterfall), tools such as Jira or MS Project, and certifications like PMP or PRINCE2.
+- q: Should I list every project I managed?
+  a: No. Pick the largest or most relevant three to five and quantify them. Group smaller ones in one bullet if needed.
+- q: Do I need a PMP to get a project manager job?
+  a: Not always, but it helps for many corporate roles. If you're studying for it, you can list 'PMP (in progress, exam scheduled for March 2027)'.
+sources:
+- title: O*NET OnLine, U.S. Department of Labor
+  url: https://www.onetonline.org/
+- title: 'U.S. Bureau of Labor Statistics: Occupational Outlook Handbook'
+  url: https://www.bls.gov/ooh/
+- title: 'Harvard College: Guide to creating a strong resume'
+  url: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
 ---
 
 ## Sample bullets (fictional)
