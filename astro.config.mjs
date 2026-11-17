@@ -6,4 +6,6 @@ export default defineConfig({
   trailingSlash: "always",
   build: { format: "directory" },
   integrations: [sitemap()],
+  // Plain, light code blocks styled by our own CSS (resume samples, not code).
+  markdown: { syntaxHighlight: false },
 });
