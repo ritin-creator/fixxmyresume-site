@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import { site, founder, links } from "../site";
+import { site, links } from "../site";
 
 const org = {
   "@type": "Organization",
@@ -10,23 +10,12 @@ const org = {
   url: site.url,
   logo: `${site.url}/favicon.svg`,
   email: site.supportEmail,
-  founder: { "@id": `${site.url}/about/#founder` },
   address: { "@type": "PostalAddress", streetAddress: "401, Tower 4, Assotech Business Cresterra, Sector 135", addressLocality: "Noida", addressRegion: "Uttar Pradesh", postalCode: "201304", addressCountry: "IN" },
   ...(site.sameAs.length ? { sameAs: site.sameAs } : {}),
-};
-const person = {
-  "@type": "Person",
-  "@id": `${site.url}/about/#founder`,
-  name: founder.name,
-  jobTitle: founder.jobTitle,
-  url: founder.url,
-  worksFor: { "@id": `${site.url}/#org` },
-  ...(founder.sameAs.length ? { sameAs: founder.sameAs } : {}),
 };
 const jsonLd = [
   { "@context": "https://schema.org", "@type": "AboutPage", name: `About ${site.name}`, url: `${site.url}/about/`, mainEntity: { "@id": `${site.url}/#org` } },
   { "@context": "https://schema.org", ...org },
-  { "@context": "https://schema.org", ...person },
 ];
 ---
 <Base title={`About ${site.name}: who we are and how we work`} description={`${site.name} is an AI resume checker for Indian job seekers, run by ${site.operatedBy}: who is behind it, how the score works, how we write guides.`} jsonLd={jsonLd}>
@@ -34,10 +23,8 @@ const jsonLd = [
     <h1>About {site.name}</h1>
     <p class="lead">{site.name} (spelt with a double x) checks a resume or LinkedIn PDF for free, scores it out of 100, and for ₹{site.priceInr} rewrites it into an ATS-friendly resume using only the candidate's own facts. It is built in India, for job seekers in India and those applying abroad.</p>
 
-    <h2>Who is behind it</h2>
+    <h2>Who runs it</h2>
     <p>{site.name} is operated by <strong>{site.operatedBy}</strong>, a company incorporated in India (CIN U74999DL2020PTC367876), registered at 401, Tower 4, Assotech Business Cresterra, Sector 135, Noida, Uttar Pradesh 201304.</p>
-    <h3 id="ritin-agarwal">{founder.name}, founder</h3>
-    <p>Ritin Agarwal is the founder and managing partner of Fundvice, a consulting firm that places fractional finance and operations leaders inside growing businesses, and he leads {site.name}. He has spent close to a decade as a financial process consultant inside private-equity-backed and founder-led companies across India and abroad. He studied B.Com (Hons.) and trained in Chartered Accountancy in Delhi, and is the author of <em>The Augmented Advisor</em>, a book on combining AI with human judgement in professional work. The Fundvice group also runs recruitment for white-collar and frontline roles in India, which shapes the practical, India-first advice in our guides.</p>
 
     <h2>How the score works</h2>
     <p>Every resume is scored on the same published 100-point checklist, calculated by code rather than by an AI's opinion, so the same resume always gets the same score:</p>
@@ -51,7 +38,7 @@ const jsonLd = [
     <p>The AI that rewrites a resume may only rephrase facts the candidate gave. A check in our code blocks any new employer, job title, degree, college or date before a resume is saved.</p>
 
     <h2>How we write our guides</h2>
-    <p>Our articles are drafted with the help of AI and edited by the {site.name} team. We base advice on how applicant tracking systems and recruiters actually work, link to the official pages we rely on under "Sources", and keep India-specific norms (Naukri, campus placements, CTC, notice periods) separate from advice for other countries. An article that shows "Reviewed by" has been checked line by line by the person named. We update articles when the advice changes, and the date at the top shows the last real update.</p>
+    <p>Our articles are drafted with the help of AI and edited by the {site.name} team. We base advice on how applicant tracking systems and recruiters actually work, link to the official pages we rely on under "Sources", and keep India-specific norms (Naukri, campus placements, CTC, notice periods) separate from advice for other countries. We update articles when the advice changes, and the date at the top shows the last real update.</p>
     <p>Spotted a mistake or something out of date? Email <a href={`mailto:${site.supportEmail}`}>{site.supportEmail}</a> and we will fix it.</p>
 
     <h2>Contact</h2>

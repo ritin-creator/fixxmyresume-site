@@ -30,9 +30,6 @@ const articles = defineCollection({
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     // Outside pages the article relies on, shown under "Sources".
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
-    // Set only after a named person has actually reviewed the article (see README).
-    reviewedBy: z.enum(["ritin-agarwal"]).optional(),
-    reviewedOn: z.coerce.date().optional(),
     lang: z.enum(["en", "hi-Latn"]).default("en"),
   }),
 });

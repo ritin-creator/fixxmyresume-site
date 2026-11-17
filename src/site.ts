@@ -16,14 +16,6 @@ export const site = {
   sameAs: [] as string[],
 };
 
-// The person who leads FixxMyResume. Shown on /about/ and in structured data.
-export const founder = {
-  id: "ritin-agarwal",
-  name: "Ritin Agarwal",
-  jobTitle: "Founder, FixxMyResume; Founder and Managing Partner, Fundvice Private Limited",
-  url: "https://fixxmyresume.com/about/",
-  sameAs: [] as string[],
-};
 
 export const links = {
   check: `${site.appUrl}/check?src=site`,

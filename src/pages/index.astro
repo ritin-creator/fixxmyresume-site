@@ -2,7 +2,7 @@
 import Base from "../layouts/Base.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
-import { site, founder, links } from "../site";
+import { site, links } from "../site";
 
 const all = (await getCollection("articles")).sort((a, b) => +b.data.published - +a.data.published);
 const pick = (id: string) => all.find((a) => a.id === id);
@@ -38,7 +38,6 @@ const jsonLd = [
     logo: `${site.url}/favicon.svg`,
     email: site.supportEmail,
     description: "FixxMyResume (double x) is an Indian AI resume checker and rewriter: a free ATS score out of 100, and an ATS-friendly resume for ₹99 written only from the candidate's own facts.",
-    founder: { "@type": "Person", "@id": `${site.url}/about/#founder`, name: founder.name, url: founder.url },
     address: { "@type": "PostalAddress", addressLocality: "Noida", addressRegion: "Uttar Pradesh", addressCountry: "IN" },
     ...(site.sameAs.length ? { sameAs: site.sameAs } : {}),
   },

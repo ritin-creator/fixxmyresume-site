@@ -4,7 +4,7 @@ import Cta from "../../components/Cta.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
 import { render } from "astro:content";
 import { allArticles, readingMinutes, fmtDate, related, wordCount, type Article } from "../../lib/articles";
-import { site, founder, categories, regions, formats } from "../../site";
+import { site, categories, regions, formats } from "../../site";
 
 export async function getStaticPaths() {
   const all = await allArticles();
@@ -18,7 +18,6 @@ const mins = readingMinutes(a.body);
 const rel = related(a, all);
 const cat = categories[d.category];
 const ogImage = `/og/${a.id}.png`;
-const reviewed = d.reviewedBy === founder.id;
 const publisher = { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/favicon.svg` } };
 
 const jsonLd: object[] = [
@@ -52,15 +51,6 @@ const jsonLd: object[] = [
     ],
   },
 ];
-if (reviewed) {
-  jsonLd.push({
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    url,
-    reviewedBy: { "@type": "Person", name: founder.name, url: founder.url, jobTitle: founder.jobTitle },
-    ...(d.reviewedOn ? { lastReviewed: d.reviewedOn.toISOString().slice(0, 10) } : {}),
-  });
-}
 if (d.faq.length) {
   jsonLd.push({
     "@context": "https://schema.org",
@@ -81,11 +71,7 @@ if (d.faq.length) {
           <span>{mins} min read</span>
           <span>Updated <time datetime={(d.updated ?? d.published).toISOString()}>{fmtDate(d.updated ?? d.published)}</time></span>
         </div>
-        <p class="byline">
-          {reviewed
-            ? <>Reviewed by <a href="/about/">{founder.name}</a>{d.reviewedOn && <> on <time datetime={d.reviewedOn.toISOString()}>{fmtDate(d.reviewedOn)}</time></>}</>
-            : <>By the <a href="/about/">{site.name} editorial team</a>, led by {founder.name}</>}
-        </p>
+        <p class="byline">By the <a href="/about/">{site.name} editorial team</a></p>
       </header>
       <div class="answer"><p class="answer-label">Short answer</p><p>{d.answer}</p></div>
       <div class="prose"><Content /></div>
