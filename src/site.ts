@@ -5,9 +5,9 @@ export const site = {
   tagline: "Fix your resume for ATS and AI screening",
   url: "https://fixxmyresume.com",
   appUrl: "https://app.fixxmyresume.com",
-  // Keep equal to price_inr in the app's Admin → Settings and to the Dodo product price.
+  // Keep equal to price_inr in the app's Admin → Settings (the amount Razorpay charges).
   priceInr: 99,
-  operatedBy: "Heena Arora",
+  operatedBy: "Fundvice Private Limited",
   supportEmail: "support@fixxmyresume.com",
   locale: "en_IN",
 };
@@ -18,6 +18,8 @@ export const links = {
   privacy: `${site.appUrl}/privacy`,
   terms: `${site.appUrl}/terms`,
   refund: `${site.appUrl}/refund`,
+  contact: `${site.appUrl}/contact`,
+  delivery: `${site.appUrl}/delivery`,
 };
 
 export const categories = {

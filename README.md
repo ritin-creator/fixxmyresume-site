@@ -49,7 +49,7 @@ The build fails if front matter breaks the rules above, so a broken article can'
 
 ## Brand, links and price
 
-All in `src/site.ts`. **`priceInr` must match `price_inr` in the app's Admin → Settings and the Dodo product price.**
+All in `src/site.ts`. **`priceInr` must match `price_inr` in the app's Admin → Settings (what Razorpay charges).**
 
 ## Local development
 

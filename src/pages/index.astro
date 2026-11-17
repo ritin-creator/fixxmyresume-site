@@ -22,12 +22,12 @@ const faq = [
   { q: "Will the AI make things up?", a: "No. It may only rephrase facts you gave. Where a number is missing, it asks you. A check in our code blocks any new employer, job title, degree, college or date before the resume is saved." },
   { q: "Does it guarantee I will pass every ATS or get an interview?", a: "No tool can promise that. We give you a clean, single-column format that applicant tracking systems read reliably, plus a higher score on a published 100-point checklist." },
   { q: "Is it only for jobs in India?", a: "No. The format works for applications in India and abroad. Payment is in Indian rupees by UPI or card." },
-  { q: "How do I pay?", a: "UPI or card through Dodo Payments, our payment partner. It is a one-time payment with no subscription." },
+  { q: "How do I pay?", a: "UPI, card or net banking through Razorpay. It is a one-time payment with no subscription." },
   { q: "Is my resume private?", a: "Yes. Your files are stored privately and visible only to you. We do not share your resume with employers or recruiters. You can ask us to delete your data from your account page." },
 ];
 
 const jsonLd = [
-  { "@context": "https://schema.org", "@type": "Organization", name: site.name, url: site.url, logo: `${site.url}/favicon.svg`, email: site.supportEmail },
+  { "@context": "https://schema.org", "@type": "Organization", name: site.name, legalName: site.operatedBy, url: site.url, logo: `${site.url}/favicon.svg`, email: site.supportEmail },
   { "@context": "https://schema.org", "@type": "WebSite", name: site.name, url: site.url },
   {
     "@context": "https://schema.org",
