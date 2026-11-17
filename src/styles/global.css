@@ -44,7 +44,7 @@ h3 { font-size: 1.15rem; margin: 1.6em 0 0.4em; }
 .header-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 60px; }
 .logo { display: inline-flex; align-items: center; gap: 8px; color: var(--ink); text-decoration: none; font-weight: 700; font-size: 1.05rem; }
 .logo b { color: var(--primary); }
-.logo-mark { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 8px; background: var(--primary); color: #fff; font-weight: 800; }
+.logo-mark { display: block; width: 30px; height: 30px; }
 nav { display: flex; align-items: center; gap: 16px; }
 nav a { color: var(--ink); text-decoration: none; font-weight: 500; }
 nav a.btn { color: var(--primary-ink); }

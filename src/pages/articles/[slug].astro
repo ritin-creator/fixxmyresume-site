@@ -18,7 +18,7 @@ const mins = readingMinutes(a.body);
 const rel = related(a, all);
 const cat = categories[d.category];
 const ogImage = `/og/${a.id}.png`;
-const publisher = { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/favicon.svg` } };
+const publisher = { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/icon-512.png` } };
 
 const jsonLd: object[] = [
   {
