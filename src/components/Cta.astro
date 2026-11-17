@@ -1,0 +1,12 @@
+---
+import { site, links } from "../site";
+interface Props { compact?: boolean }
+const { compact = false } = Astro.props;
+---
+<aside class={`cta ${compact ? "cta-compact" : ""}`}>
+  <div>
+    <p class="cta-title">See what's holding your resume back</p>
+    <p class="muted">Upload your resume or LinkedIn PDF and get a free score out of 100 with your top 4 problems. Fixing it costs ₹{site.priceInr}, once.</p>
+  </div>
+  <a class="btn" href={links.check}>Check my resume free</a>
+</aside>

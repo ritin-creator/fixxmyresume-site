@@ -1,0 +1,11 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { formats, regions } from "../site";
+interface Props { a: CollectionEntry<"articles"> }
+const { a } = Astro.props;
+---
+<article class="card">
+  <p class="eyebrow"><span class={`tag tag-${a.data.region}`}>{regions[a.data.region].label}</span> · {formats[a.data.format]}</p>
+  <h3><a href={`/articles/${a.id}/`}>{a.data.title}</a></h3>
+  <p class="muted">{a.data.description}</p>
+</article>

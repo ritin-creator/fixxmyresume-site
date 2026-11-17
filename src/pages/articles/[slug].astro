@@ -1,0 +1,87 @@
+---
+import Base from "../../layouts/Base.astro";
+import Cta from "../../components/Cta.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { render } from "astro:content";
+import { allArticles, readingMinutes, fmtDate, related, wordCount, type Article } from "../../lib/articles";
+import { site, categories, regions, formats } from "../../site";
+
+export async function getStaticPaths() {
+  const all = await allArticles();
+  return all.map((a) => ({ params: { slug: a.id }, props: { a, all } }));
+}
+const { a, all } = Astro.props as { a: Article; all: Article[] };
+const { Content } = await render(a);
+const d = a.data;
+const url = `${site.url}/articles/${a.id}/`;
+const mins = readingMinutes(a.body);
+const rel = related(a, all);
+const cat = categories[d.category];
+
+const jsonLd: object[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: d.title,
+    description: d.description,
+    abstract: d.answer,
+    inLanguage: d.lang === "hi-Latn" ? "hi-Latn" : "en-IN",
+    datePublished: d.published.toISOString(),
+    dateModified: (d.updated ?? d.published).toISOString(),
+    wordCount: wordCount(a.body),
+    keywords: d.keywords.join(", "),
+    articleSection: cat.label,
+    mainEntityOfPage: url,
+    url,
+    image: `${site.url}/og.png`,
+    author: { "@type": "Organization", name: `${site.name} editorial team`, url: site.url },
+    publisher: { "@type": "Organization", name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/favicon.svg` } },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: `${site.url}/` },
+      { "@type": "ListItem", position: 2, name: "Articles", item: `${site.url}/articles/` },
+      { "@type": "ListItem", position: 3, name: cat.label, item: `${site.url}/articles/topic/${d.category}/` },
+      { "@type": "ListItem", position: 4, name: d.title, item: url },
+    ],
+  },
+];
+if (d.faq.length) {
+  jsonLd.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: d.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+  });
+}
+---
+<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd} lang={d.lang} published={d.published} updated={d.updated}>
+  <div class="wrap narrow">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/articles/">Articles</a> › <a href={`/articles/topic/${d.category}/`}>{cat.label}</a></nav>
+    <article>
+      <header>
+        <h1>{d.title}</h1>
+        <div class="article-meta">
+          <a class={`tag tag-${d.region}`} href={`/articles/${d.region}/`}>{regions[d.region].label}</a>
+          <span>{formats[d.format]}</span>
+          <span>{mins} min read</span>
+          <span>Updated <time datetime={(d.updated ?? d.published).toISOString()}>{fmtDate(d.updated ?? d.published)}</time></span>
+        </div>
+      </header>
+      <div class="answer"><p class="answer-label">Short answer</p><p>{d.answer}</p></div>
+      <div class="prose"><Content /></div>
+      {d.faq.length > 0 && (
+        <section>
+          <h2>Frequently asked questions</h2>
+          {d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+        </section>
+      )}
+      <Cta />
+    </article>
+    <section class="related">
+      <h2>Related articles</h2>
+      <div class="grid grid-2">{rel.map((r) => <ArticleCard a={r} />)}</div>
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,15 @@
+---
+import { site, links } from "../site";
+---
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="logo" href="/" aria-label={`${site.name} home`}>
+      <span class="logo-mark" aria-hidden="true">F</span><span>Fixx<b>My</b>Resume</span>
+    </a>
+    <nav aria-label="Main">
+      <a href="/articles/">Articles</a>
+      <a href={links.login} class="nav-login">Log in</a>
+      <a href={links.check} class="btn btn-small">Check free</a>
+    </nav>
+  </div>
+</header>

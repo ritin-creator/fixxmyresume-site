@@ -1,0 +1,11 @@
+{
+  // Static marketing site + articles. Served by Cloudflare Workers static assets.
+  // The software (check, pay, generator, admin) runs separately on Lovable at app.fixxmyresume.com.
+  "name": "fixxmyresume-site",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

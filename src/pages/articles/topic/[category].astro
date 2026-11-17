@@ -1,0 +1,20 @@
+---
+import Base from "../../../layouts/Base.astro";
+import ArticleList from "../../../components/ArticleList.astro";
+import { allArticles } from "../../../lib/articles";
+import { categories, type CategoryId } from "../../../site";
+
+export async function getStaticPaths() {
+  return Object.keys(categories).map((category) => ({ params: { category } }));
+}
+const id = Astro.params.category as CategoryId;
+const c = categories[id];
+const list = (await allArticles()).filter((a) => a.data.category === id);
+---
+<Base title={`${c.label}: resume articles`} description={`${list.length} articles. ${c.blurb}`}>
+  <div class="wrap">
+    <h1 style="margin-top:32px">{c.label}</h1>
+    <p class="lead">{c.blurb}</p>
+    <ArticleList articles={list} current={id} />
+  </div>
+</Base>

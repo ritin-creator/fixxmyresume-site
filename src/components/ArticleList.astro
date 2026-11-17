@@ -1,0 +1,13 @@
+---
+import ArticleCard from "./ArticleCard.astro";
+import { categories, regions } from "../site";
+import type { Article } from "../lib/articles";
+interface Props { articles: Article[]; current?: string }
+const { articles, current = "all" } = Astro.props;
+---
+<div class="filters" aria-label="Filter articles">
+  <a class="chip" href="/articles/" aria-current={current === "all" ? "page" : undefined}>All</a>
+  {Object.entries(regions).map(([id, r]) => <a class="chip" href={`/articles/${id}/`} aria-current={current === id ? "page" : undefined}>{r.label}</a>)}
+  {Object.entries(categories).map(([id, c]) => <a class="chip" href={`/articles/topic/${id}/`} aria-current={current === id ? "page" : undefined}>{c.label}</a>)}
+</div>
+<div class="grid grid-3">{articles.map((a) => <ArticleCard a={a} />)}</div>

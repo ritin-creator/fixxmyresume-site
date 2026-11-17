@@ -1,0 +1,191 @@
+---
+import Base from "../layouts/Base.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+import { site, links } from "../site";
+
+const all = (await getCollection("articles")).sort((a, b) => +b.data.published - +a.data.published);
+const pick = (id: string) => all.find((a) => a.id === id);
+const featured = [
+  "how-to-make-resume-ats-friendly",
+  "resume-format-for-freshers-india",
+  "how-to-write-a-resume",
+  "naukri-resume-guide",
+  "resume-summary-examples",
+  "biodata-vs-resume-vs-cv",
+].map(pick).filter(Boolean);
+
+const faq = [
+  { q: "Is the resume check really free?", a: `Yes. Upload your resume, LinkedIn PDF or pasted text and you get a score out of 100 with your top 4 problems, without signing up. You pay ₹${site.priceInr} only if you want the fixed resume.` },
+  { q: "What do I get for ₹" + site.priceInr + "?", a: "One resume rewritten for your target role, as a PDF and a Word file, in a choice of three ATS-friendly templates. It includes 3 regenerations, unlimited edits, and up to 5 cover letters or recruiter messages for that resume." },
+  { q: "Can I upload my LinkedIn profile?", a: "Yes. On LinkedIn, open your profile, tap More, choose Save to PDF, and upload that file. You can also upload a PDF or Word resume, or paste text." },
+  { q: "Will the AI make things up?", a: "No. It may only rephrase facts you gave. Where a number is missing, it asks you. A check in our code blocks any new employer, job title, degree, college or date before the resume is saved." },
+  { q: "Does it guarantee I will pass every ATS or get an interview?", a: "No tool can promise that. We give you a clean, single-column format that applicant tracking systems read reliably, plus a higher score on a published 100-point checklist." },
+  { q: "Is it only for jobs in India?", a: "No. The format works for applications in India and abroad. Payment is in Indian rupees by UPI or card." },
+  { q: "How do I pay?", a: "UPI or card through Dodo Payments, our payment partner. It is a one-time payment with no subscription." },
+  { q: "Is my resume private?", a: "Yes. Your files are stored privately and visible only to you. We do not share your resume with employers or recruiters. You can ask us to delete your data from your account page." },
+];
+
+const jsonLd = [
+  { "@context": "https://schema.org", "@type": "Organization", name: site.name, url: site.url, logo: `${site.url}/favicon.svg`, email: site.supportEmail },
+  { "@context": "https://schema.org", "@type": "WebSite", name: site.name, url: site.url },
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    name: site.name,
+    applicationCategory: "BusinessApplication",
+    operatingSystem: "Web",
+    url: site.appUrl,
+    description: "Upload a resume or LinkedIn PDF, get a free ATS score, then an ATS-friendly rewritten resume in PDF and Word.",
+    offers: { "@type": "Offer", price: String(site.priceInr), priceCurrency: "INR" },
+  },
+  { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) },
+];
+---
+<Base title={`${site.name}: free ATS resume check, fixed resume for ₹${site.priceInr}`} description={`Upload your resume or LinkedIn PDF, get a free ATS score out of 100 and your top problems. Get an ATS-friendly resume in PDF and Word for ₹${site.priceInr}.`} jsonLd={jsonLd}>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="pill">Free check · No sign-up</span>
+        <h1>Your resume, fixed for ATS and AI screening.</h1>
+        <p class="lead">Upload your old resume or LinkedIn profile. See your score out of 100 and exactly what's wrong. Then get an ATS-friendly resume for ₹{site.priceInr}, written only from your own facts.</p>
+        <div class="hero-actions">
+          <a class="btn" href={links.check}>Check my resume free</a>
+          <span class="muted small">Takes about a minute. Works on your phone.</span>
+        </div>
+      </div>
+      <div class="score-card" aria-label="Sample result">
+        <p class="eyebrow">Sample result</p>
+        <div class="score-row">
+          <svg class="dial" viewBox="0 0 120 120" role="img" aria-label="Score 46 out of 100">
+            <circle cx="60" cy="60" r="50" fill="none" stroke="#efeee9" stroke-width="12" />
+            <circle cx="60" cy="60" r="50" fill="none" stroke="#b45309" stroke-width="12" stroke-linecap="round" stroke-dasharray="314" stroke-dashoffset="170" transform="rotate(-90 60 60)" />
+            <text x="60" y="66" text-anchor="middle" font-size="30" font-weight="800" fill="#1b1b1f">46</text>
+          </svg>
+          <div>
+            <p style="margin:0;font-weight:700">Needs work</p>
+            <p class="muted small" style="margin:0">Sales executive, 3 years. Fictional sample.</p>
+          </div>
+        </div>
+        <div class="bars">
+          <div class="bar">ATS readability <span class="muted">· 13/25</span><div class="bar-track"><div class="bar-fill low" style="width:52%"></div></div></div>
+          <div class="bar">Keywords and role fit <span class="muted">· 10/25</span><div class="bar-track"><div class="bar-fill low" style="width:40%"></div></div></div>
+          <div class="bar">Impact <span class="muted">· 6/20</span><div class="bar-track"><div class="bar-fill low" style="width:30%"></div></div></div>
+        </div>
+        <div class="problem"><span class="problem-n">1</span><span><b>Two-column layout.</b> Many ATS read across columns and mix up your text.</span></div>
+        <div class="problem"><span class="problem-n">2</span><span><b>No numbers.</b> "Responsible for handling clients" says what you did, not what you achieved.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap">
+      <p class="eyebrow">How it works</p>
+      <h2 style="margin-top:0">Three steps, about ten minutes</h2>
+      <div class="steps">
+        <div class="card step"><h3>Check free</h3><p class="muted">Upload a PDF or Word resume, your LinkedIn "Save to PDF" file, or paste text. Get a score out of 100 and your top 4 problems.</p></div>
+        <div class="card step"><h3>Pay ₹{site.priceInr} once</h3><p class="muted">UPI or card. Add a target job title or paste a job description if you have one. Answer a few short questions about missing numbers.</p></div>
+        <div class="card step"><h3>Download</h3><p class="muted">Preview, edit, regenerate up to 3 times, then download PDF and Word in a single-column ATS-friendly template.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <p class="eyebrow">What we check</p>
+      <h2 style="margin-top:0">A 100-point checklist, the same every time</h2>
+      <p class="muted">The score comes from fixed rules, not an AI's mood, so the same resume always gets the same score. Your new resume is scored on the same checklist.</p>
+      <table class="check-table">
+        <thead><tr><th>Area</th><th>Points</th><th>What it looks at</th></tr></thead>
+        <tbody>
+          <tr><td>ATS readability</td><td class="pts">25</td><td>Columns, tables, text in headers or footers, icons, fonts, section headings, readable contact details, consistent dates</td></tr>
+          <tr><td>Keywords and role fit</td><td class="pts">25</td><td>The terms in your target job description, your job title near the top, skills backed by real experience</td></tr>
+          <tr><td>Impact</td><td class="pts">20</td><td>Bullets with numbers, strong action verbs, no "responsible for"</td></tr>
+          <tr><td>Sections and contact</td><td class="pts">15</td><td>Name, email, phone, city, LinkedIn, summary, experience, education, skills</td></tr>
+          <tr><td>Clarity</td><td class="pts">15</td><td>Right length for your experience, no "I" or "my", short lines, consistent tense</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap">
+      <p class="eyebrow">Before and after</p>
+      <h2 style="margin-top:0">Same person, same facts, clearer resume</h2>
+      <div class="ba">
+        <div class="card ba-col"><h3>Before <span class="badge-low">46 / 100</span></h3>
+          <ul>
+            <li>Two-column template with icons</li>
+            <li>"Hardworking professional looking for a good opportunity"</li>
+            <li>"Responsible for handling key client accounts"</li>
+            <li>Dates as "2019", "05/2021" and "June 2021"</li>
+          </ul></div>
+        <div class="card ba-col"><h3>After <span class="badge-high">88 / 100</span></h3>
+          <ul>
+            <li>Single column, standard headings, contact details in the body</li>
+            <li>Two-line summary naming the target role</li>
+            <li>"Managed 14 key client accounts, renewing 12 of them" (number given by the candidate when asked)</li>
+            <li>Dates as "Jun 2021 – Present" throughout</li>
+          </ul></div>
+      </div>
+      <p class="muted small">Fictional sample. Your score depends on your resume.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="card price-card">
+        <p class="eyebrow">Price</p>
+        <p class="price">₹{site.priceInr}</p>
+        <p class="muted" style="margin:0">per resume · one-time · no subscription</p>
+        <ul class="ticks">
+          <li>One resume aimed at your target role</li>
+          <li>PDF and Word downloads, 3 ATS-friendly templates</li>
+          <li>3 regenerations and unlimited edits</li>
+          <li>Up to 5 cover letters or recruiter messages</li>
+          <li>Every version saved in your account</li>
+        </ul>
+        <a class="btn" style="width:100%" href={links.check}>Start with a free check</a>
+        <p class="muted small" style="margin-top:10px">Up to 2 resumes per account. Refund if your resume can't be generated.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap narrow">
+      <p class="eyebrow">Our rules</p>
+      <h2 style="margin-top:0">Honest by design</h2>
+      <div class="grid grid-2">
+        <div class="card"><h3>Nothing invented</h3><p class="muted">The AI may only reword what you gave it. Our code blocks any new employer, title, degree, college or date before a resume is saved.</p></div>
+        <div class="card"><h3>No false promises</h3><p class="muted">We don't claim a guaranteed ATS pass or interview. We give you a format ATS read reliably and a resume that shows your real results.</p></div>
+        <div class="card"><h3>Your data stays yours</h3><p class="muted">Private storage, visible only to you. Never shared with employers or recruiters. Ask for deletion any time.</p></div>
+        <div class="card"><h3>Built for phones</h3><p class="muted">Upload, pay by UPI, edit and download, all on a phone.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <p class="eyebrow">Questions</p>
+      <h2 style="margin-top:0">Frequently asked</h2>
+      {faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap">
+      <p class="eyebrow">Free guides</p>
+      <h2 style="margin-top:0">Resume advice that works in India and abroad</h2>
+      <div class="grid grid-3">{featured.map((a) => <ArticleCard a={a!} />)}</div>
+      <p style="margin-top:20px"><a class="btn btn-ghost" href="/articles/">All {all.length} articles</a></p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow" style="text-align:center">
+      <h2 style="margin-top:0">Find out what's holding your resume back</h2>
+      <p class="muted">Free score in about a minute. No sign-up.</p>
+      <a class="btn" href={links.check}>Check my resume free</a>
+    </div>
+  </section>
+</Base>

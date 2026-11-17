@@ -1,0 +1,18 @@
+---
+import Base from "../layouts/Base.astro";
+import ArticleList from "./ArticleList.astro";
+import { allArticles } from "../lib/articles";
+import { regions, type RegionId } from "../site";
+interface Props { region: RegionId }
+const { region } = Astro.props;
+const r = regions[region];
+const list = (await allArticles()).filter((a) => a.data.region === region);
+const heading = region === "india" ? "Resume advice for jobs in India" : "Resume advice for jobs anywhere";
+---
+<Base title={heading} description={`${list.length} articles. ${r.blurb}`}>
+  <div class="wrap">
+    <h1 style="margin-top:32px">{heading}</h1>
+    <p class="lead">{r.blurb}</p>
+    <ArticleList articles={list} current={region} />
+  </div>
+</Base>
