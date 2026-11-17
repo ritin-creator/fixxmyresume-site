@@ -1,6 +1,6 @@
 ---
 title: "Remote Job Resume: How to Show You Can Work From Anywhere"
-description: "How to write a resume for remote jobs: proving self-management and async communication, listing remote tools, time zones, and where to mention remote experience."
+description: "How to write a resume for remote jobs: proving self-management and async communication, listing remote tools and time zones, and where to show remote work."
 answer: "For remote jobs, show that you've delivered results without supervision: mention remote or hybrid roles in your job titles or locations, add bullets on async communication, documentation and working across time zones, list collaboration tools you use, and state your time zone and availability in the contact line."
 region: global
 category: career-situations

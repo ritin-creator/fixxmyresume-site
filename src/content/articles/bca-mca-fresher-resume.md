@@ -1,6 +1,7 @@
 ---
 title: "BCA and MCA Fresher Resume Example for Developer and IT Roles"
-description: "BCA and MCA fresher resume example for developer, tester and IT support roles, with project bullets, the skills to list and how to compete with B.Tech graduates."
+seoTitle: "BCA and MCA Fresher Resume Example for IT Roles"
+description: "BCA and MCA fresher resume example for developer, tester and IT support roles: project bullets, the skills to list and how to compete with B.Tech graduates."
 answer: "BCA and MCA freshers should lead with skills and projects: a summary naming the role, a grouped skills list (languages, frameworks, databases, tools), two or three projects with real users or data, internships, then education. Strong GitHub projects and certifications help you compete with B.Tech candidates for the same roles."
 region: india
 category: examples-by-role

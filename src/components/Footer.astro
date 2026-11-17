@@ -13,13 +13,14 @@ const year = new Date().getFullYear();
       <h2 class="footer-h">Articles</h2>
       <ul class="plain">
         {Object.entries(regions).map(([id, r]) => <li><a href={`/articles/${id}/`}>{r.label}</a></li>)}
-        {Object.entries(categories).slice(0, 5).map(([id, c]) => <li><a href={`/articles/topic/${id}/`}>{c.label}</a></li>)}
+        {Object.entries(categories).map(([id, c]) => <li><a href={`/articles/topic/${id}/`}>{c.label}</a></li>)}
       </ul>
     </div>
     <div>
       <h2 class="footer-h">Product</h2>
       <ul class="plain">
         <li><a href={links.check}>Free resume check</a></li>
+        <li><a href="/about/">About us</a></li>
         <li><a href={links.login}>Log in</a></li>
         <li><a href={links.terms}>Terms</a></li>
         <li><a href={links.privacy}>Privacy</a></li>

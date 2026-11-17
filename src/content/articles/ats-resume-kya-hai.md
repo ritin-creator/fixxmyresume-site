@@ -1,6 +1,7 @@
 ---
 title: "ATS Resume Kya Hai? ATS Friendly Resume Kaise Banaye (Hinglish)"
-description: "ATS resume kya hota hai aur ATS friendly resume kaise banaye: simple Hinglish mein samjho ki software resume kaise padhta hai aur kaunsi galtiyan bhaari padti hain."
+seoTitle: "ATS Resume Kya Hai? ATS Friendly Resume Kaise Banaye"
+description: "ATS resume kya hota hai aur ATS friendly resume kaise banaye: Hinglish mein samjho software resume kaise padhta hai aur kaunsi galtiyan bhaari padti hain."
 answer: "ATS (Applicant Tracking System) ek software hai jo companies job applications collect aur search karne ke liye use karti hain. ATS friendly resume woh hai jise ye software sahi se padh sake: ek column, simple headings (Experience, Education, Skills), contact details page ke andar, koi table, icon ya photo nahi, aur job description ke keywords jo aap par sach mein lagu hote hain."
 region: india
 category: ats-and-keywords

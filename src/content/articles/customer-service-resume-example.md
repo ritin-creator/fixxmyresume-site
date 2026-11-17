@@ -1,5 +1,6 @@
 ---
 title: "Customer Service Resume Example (Call Centre, Chat and Support)"
+seoTitle: "Customer Service Resume Example (Call Centre, Chat)"
 description: "Customer service resume example and bullets for call centre, chat, email and retail support roles, built on volume, satisfaction scores and resolution times."
 answer: "A customer service resume should show volume (calls, chats or tickets a day), quality (CSAT, NPS, quality scores), speed (average handle time, first-contact resolution) and the systems you used. Add languages spoken and any escalations, training or process fixes you handled."
 region: global

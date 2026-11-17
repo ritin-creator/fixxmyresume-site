@@ -1,6 +1,6 @@
 ---
 title: "Resume for Startup Jobs in India: What Founders Look For"
-description: "How to write a resume for Indian startups: showing ownership, speed and range, side projects, links, and how a startup resume differs from one for large companies."
+description: "How to write a resume for Indian startups: showing ownership, speed and range, side projects and links, and how it differs from a big-company resume."
 answer: "Startups look for ownership, speed and range. Lead with outcomes you drove end to end, show you can wear several hats, add links to work you've shipped (GitHub, portfolio, products, posts), and keep it short and direct. Mention side projects, freelancing and early-stage experience, and cut corporate jargon."
 region: india
 category: career-situations

@@ -1,6 +1,7 @@
 ---
 title: "Software Engineer Resume Example (With Bullet Ideas by Level)"
-description: "A software engineer resume example with a sample layout, strong bullet points for junior to senior engineers, the skills section recruiters scan, and common mistakes."
+seoTitle: "Software Engineer Resume Example (Bullets by Level)"
+description: "A software engineer resume example: sample layout, strong bullet points from junior to senior, the skills section recruiters scan, and common mistakes."
 answer: "A strong software engineer resume leads with your target title and stack, lists experience with bullets that show what you built, the technology used and the impact (users, speed, reliability, cost), then a grouped skills section and links to GitHub or projects. Keep it to one page under 8 years of experience."
 region: global
 category: examples-by-role

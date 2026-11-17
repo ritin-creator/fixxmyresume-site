@@ -1,5 +1,6 @@
 ---
 title: "How to Explain an Employment Gap on Your Resume (With Examples)"
+seoTitle: "How to Explain an Employment Gap on Your Resume"
 description: "How to show a career gap on your resume honestly: when to mention it, one-line explanations for common reasons, and what to say in the interview."
 answer: "Keep honest dates on every job, and if the gap is longer than about six months, add one neutral line in the timeline explaining it, such as 'Career break: full-time caregiving, 2023–2024'. Mention anything useful you did during it, like courses or freelance work. Don't over-explain or hide dates with a functional format."
 region: global

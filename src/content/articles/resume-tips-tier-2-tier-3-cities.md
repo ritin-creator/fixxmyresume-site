@@ -1,6 +1,6 @@
 ---
 title: "Resume Tips for Job Seekers From Tier-2 and Tier-3 Cities"
-description: "Practical resume advice for job seekers from smaller Indian towns: presenting local colleges and experience, relocation, languages, remote jobs and avoiding common traps."
+description: "Resume advice for job seekers from smaller Indian towns: presenting local colleges and experience, relocation, languages, remote jobs and common traps."
 answer: "Your town or college doesn't decide your resume; what you did does. Write your experience as achievements with numbers, show practical skills recruiters search for, make relocation readiness clear in your contact line, list regional languages as a strength, and use online certifications and projects to fill gaps a big-city college might have covered."
 region: india
 category: career-situations

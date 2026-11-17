@@ -1,5 +1,6 @@
 ---
 title: "How to Write CGPA and Percentage on Your Resume (and When to Convert)"
+seoTitle: "How to Write CGPA and Percentage on Your Resume"
 description: "Write CGPA, SGPA and percentage correctly on an Indian resume: format, when to convert, which marks to include for 10th and 12th, and when to leave grades out."
 answer: "Write your grade in the scale your university uses, with the maximum, such as 'CGPA 8.2/10'. Convert to a percentage only if the employer asks or the form needs it, using your university's official conversion formula, and say it's converted. Include class X and XII marks as a fresher, and drop school marks once you have several years of experience."
 region: india

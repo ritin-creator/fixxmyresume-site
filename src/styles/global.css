@@ -150,3 +150,12 @@ details p { margin: 10px 0 0; color: var(--muted); }
 .prose pre { background: #f6f5f1; border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; overflow-x: auto; font-size: 0.9rem; line-height: 1.5; white-space: pre-wrap; }
 .prose pre code { background: none; padding: 0; }
 .related { margin-top: 40px; }
+
+/* Byline and sources */
+.byline { margin: 6px 0 0; font-size: 0.875rem; color: var(--muted, #555); }
+.byline a { color: inherit; text-decoration: underline; }
+.sources ul { padding-left: 1.1rem; font-size: 0.9375rem; }
+.sources li { margin: 4px 0; word-break: break-word; }
+.hub-intro { max-width: 70ch; }
+.hub-intro p { margin: 0 0 12px; }
+.hub-faq { max-width: 70ch; margin: 40px 0; }

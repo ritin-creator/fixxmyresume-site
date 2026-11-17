@@ -1,6 +1,6 @@
 ---
 title: "How to Make Your Resume ATS-Friendly: 15-Point Checklist"
-description: "A practical checklist to make any resume ATS-friendly: layout, headings, fonts, dates, file type, keywords and the copy-paste test that shows what software sees."
+description: "A practical checklist to make any resume ATS-friendly: layout, headings, fonts, dates, file type, keywords and the copy-paste test that shows what ATS sees."
 answer: "Use one column, standard headings, plain fonts, and keep contact details in the page body, not the header. Remove tables, text boxes, icons and images. Write dates in one format, mirror the job description's keywords where true, and save as a text-based PDF or Word file. Then paste your resume into a plain text editor to see what software sees."
 region: global
 category: ats-and-keywords

@@ -4,7 +4,7 @@ import Cta from "../../components/Cta.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
 import { render } from "astro:content";
 import { allArticles, readingMinutes, fmtDate, related, wordCount, type Article } from "../../lib/articles";
-import { site, categories, regions, formats } from "../../site";
+import { site, founder, categories, regions, formats } from "../../site";
 
 export async function getStaticPaths() {
   const all = await allArticles();
@@ -17,6 +17,9 @@ const url = `${site.url}/articles/${a.id}/`;
 const mins = readingMinutes(a.body);
 const rel = related(a, all);
 const cat = categories[d.category];
+const ogImage = `/og/${a.id}.png`;
+const reviewed = d.reviewedBy === founder.id;
+const publisher = { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/favicon.svg` } };
 
 const jsonLd: object[] = [
   {
@@ -33,9 +36,10 @@ const jsonLd: object[] = [
     articleSection: cat.label,
     mainEntityOfPage: url,
     url,
-    image: `${site.url}/og.png`,
-    author: { "@type": "Organization", name: `${site.name} editorial team`, url: site.url },
-    publisher: { "@type": "Organization", name: site.name, url: site.url, logo: { "@type": "ImageObject", url: `${site.url}/favicon.svg` } },
+    image: `${site.url}${ogImage}`,
+    author: { "@type": "Organization", name: `${site.name} editorial team`, url: `${site.url}/about/`, parentOrganization: { "@id": `${site.url}/#org` } },
+    publisher,
+    ...(d.sources.length ? { citation: d.sources.map((x) => ({ "@type": "CreativeWork", name: x.title, url: x.url })) } : {}),
   },
   {
     "@context": "https://schema.org",
@@ -48,6 +52,15 @@ const jsonLd: object[] = [
     ],
   },
 ];
+if (reviewed) {
+  jsonLd.push({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    url,
+    reviewedBy: { "@type": "Person", name: founder.name, url: founder.url, jobTitle: founder.jobTitle },
+    ...(d.reviewedOn ? { lastReviewed: d.reviewedOn.toISOString().slice(0, 10) } : {}),
+  });
+}
 if (d.faq.length) {
   jsonLd.push({
     "@context": "https://schema.org",
@@ -56,7 +69,7 @@ if (d.faq.length) {
   });
 }
 ---
-<Base title={d.title} description={d.description} type="article" jsonLd={jsonLd} lang={d.lang} published={d.published} updated={d.updated}>
+<Base title={d.seoTitle ?? d.title} description={d.description} type="article" jsonLd={jsonLd} lang={d.lang} published={d.published} updated={d.updated} ogImage={ogImage}>
   <div class="wrap narrow">
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/articles/">Articles</a> › <a href={`/articles/topic/${d.category}/`}>{cat.label}</a></nav>
     <article>
@@ -68,6 +81,11 @@ if (d.faq.length) {
           <span>{mins} min read</span>
           <span>Updated <time datetime={(d.updated ?? d.published).toISOString()}>{fmtDate(d.updated ?? d.published)}</time></span>
         </div>
+        <p class="byline">
+          {reviewed
+            ? <>Reviewed by <a href="/about/">{founder.name}</a>{d.reviewedOn && <> on <time datetime={d.reviewedOn.toISOString()}>{fmtDate(d.reviewedOn)}</time></>}</>
+            : <>By the <a href="/about/">{site.name} editorial team</a>, led by {founder.name}</>}
+        </p>
       </header>
       <div class="answer"><p class="answer-label">Short answer</p><p>{d.answer}</p></div>
       <div class="prose"><Content /></div>
@@ -75,6 +93,12 @@ if (d.faq.length) {
         <section>
           <h2>Frequently asked questions</h2>
           {d.faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+        </section>
+      )}
+      {d.sources.length > 0 && (
+        <section class="sources">
+          <h2>Sources</h2>
+          <ul>{d.sources.map((x) => <li><a href={x.url} rel="noopener" target="_blank">{x.title}</a></li>)}</ul>
         </section>
       )}
       <Cta />

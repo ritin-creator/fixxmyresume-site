@@ -1,6 +1,7 @@
 ---
 title: "Resume Format for Freshers in India (2026): Section-by-Section Guide"
-description: "The best resume format for freshers in India: what goes in each section, the right order for B.Tech, B.Com, BBA and MBA freshers, a sample, and mistakes to avoid."
+seoTitle: "Resume Format for Freshers in India (2026 Guide)"
+description: "The best resume format for freshers in India: what goes in each section, the right order for B.Tech, B.Com, BBA and MBA freshers, a sample and mistakes."
 answer: "Indian freshers should use a one-page, single-column format: name and contact details, a two-line summary naming the target role, education (degree, college, year, CGPA or percentage), projects and internships with results, skills matched to the job, then certifications and achievements. Leave out date of birth, father's name, religion, photo and a declaration unless the employer asks."
 region: india
 category: freshers-and-students

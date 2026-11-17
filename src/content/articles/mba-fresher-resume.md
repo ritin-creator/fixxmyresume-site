@@ -1,5 +1,6 @@
 ---
 title: "MBA Fresher Resume Example (Marketing, Finance, HR, Operations)"
+seoTitle: "MBA Fresher Resume Example: Marketing, Finance, HR"
 description: "An MBA fresher resume example: presenting your summer internship, live projects, case competitions and specialisation for marketing, finance, HR and operations."
 answer: "An MBA fresher resume should lead with your summer internship and its results, then live projects, case competitions, positions of responsibility and academic achievements, with education including your undergraduate degree and any pre-MBA work experience. Quantify everything, keep to one page, and tailor to your specialisation."
 region: india

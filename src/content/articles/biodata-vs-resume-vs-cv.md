@@ -1,6 +1,7 @@
 ---
 title: "Biodata vs Resume vs CV: Differences Explained for Indian Job Seekers"
-description: "What's the difference between biodata, resume and CV in India? Length, personal details, purpose and which one to send for private, government and overseas jobs."
+seoTitle: "Biodata vs Resume vs CV: Differences for Indian Jobs"
+description: "Biodata, resume or CV? The differences in India: length, personal details, purpose and which to send for private, government and overseas jobs."
 answer: "In India, a resume (or CV) is the standard 1–2 page document for private-sector jobs, focused on experience, skills and achievements. A biodata is an older format heavy on personal details such as date of birth, religion, father's name and marital status; it's now mainly used for some government applications and for marriage proposals. For corporate jobs, send a resume."
 region: india
 category: formats-and-templates

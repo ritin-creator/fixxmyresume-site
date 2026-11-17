@@ -1,6 +1,7 @@
 ---
 title: "Resume for Gulf Jobs (UAE, Saudi Arabia, Qatar, Oman) From India"
-description: "How to write a CV for Gulf jobs from India: personal details employers expect, photo, nationality, visa and notice period, passport, attested degrees and job titles."
+seoTitle: "Resume for Gulf Jobs From India: UAE, Saudi, Qatar"
+description: "How to write a CV for Gulf jobs from India: personal details employers expect, photo, nationality, visa, notice period, passport and attested degrees."
 answer: "Gulf employers usually expect a 1–2 page CV with a professional photo, nationality, visa status, current location, availability or notice period, passport validity and languages, along with clear job titles and GCC experience if you have it. Be ready to show attested degree certificates, which are often needed for work visas."
 region: india
 category: working-abroad

@@ -1,5 +1,6 @@
 ---
 title: "Resume for CA Articleship: Example for CA Intermediate Students"
+seoTitle: "CA Articleship Resume: Example for CA Inter Students"
 description: "How CA students can write a resume for articleship applications: what firms look for, how to show exam results, skills and projects with little work experience."
 answer: "A CA articleship resume should show your CA exam progress and marks, B.Com or graduation status, practical skills such as Tally, Excel and GST basics, any internships or family-business accounting, and the areas you want to train in (audit, tax, advisory). Keep it to one page and mention your preferred city and start date."
 region: india

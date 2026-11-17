@@ -12,7 +12,7 @@ const jsonLd = [{
   hasPart: all.map((a) => ({ "@type": "Article", headline: a.data.title, url: `${site.url}/articles/${a.id}/` })),
 }];
 ---
-<Base title="Resume articles: ATS, formats, examples and job search tips" description={`${all.length} free guides on writing an ATS-friendly resume, formats, examples by role, freshers, cover letters, Naukri and LinkedIn, for India and abroad.`} jsonLd={jsonLd}>
+<Base title="Resume Guides: ATS, Formats, Examples, Job Search" description={`${all.length} free guides on writing an ATS-friendly resume, formats, examples by role, freshers, cover letters, Naukri and LinkedIn, for India and abroad.`} jsonLd={jsonLd}>
   <div class="wrap">
     <h1 style="margin-top:32px">Resume articles</h1>
     <p class="lead">{all.length} free guides on getting your resume past ATS and AI screening and in front of a person, for jobs in India and abroad.</p>

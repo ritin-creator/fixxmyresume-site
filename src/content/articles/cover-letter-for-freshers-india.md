@@ -1,6 +1,6 @@
 ---
 title: "Cover Letter for Freshers in India: Format and 5 Examples"
-description: "Cover letter format and examples for Indian freshers applying for IT, accounts, sales, marketing and HR jobs, including a short email version for Naukri and LinkedIn."
+description: "Cover letter format and examples for Indian freshers applying for IT, accounts, sales, marketing and HR jobs, plus a short email version for Naukri."
 answer: "A fresher cover letter should be under 200 words: one line on the role and why this company, two or three lines on your strongest project, internship or achievement with numbers, one line on the skills that match the job, and a polite close. For emails and portal messages, a five-line version works better."
 region: india
 category: cover-letters

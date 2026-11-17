@@ -6,7 +6,9 @@ const articles = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/articles" }),
   schema: z.object({
     title: z.string().max(110),
-    description: z.string().min(50).max(170),
+    // Shorter title for the browser tab and Google (titles over ~60 characters get cut off).
+    seoTitle: z.string().max(60).optional(),
+    description: z.string().min(70).max(160),
     // The direct answer shown first on the page: what AI answer engines quote.
     answer: z.string().min(40).max(420),
     region: z.enum(["india", "global"]),
@@ -26,6 +28,11 @@ const articles = defineCollection({
     published: z.coerce.date(),
     updated: z.coerce.date().optional(),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    // Outside pages the article relies on, shown under "Sources".
+    sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
+    // Set only after a named person has actually reviewed the article (see README).
+    reviewedBy: z.enum(["ritin-agarwal"]).optional(),
+    reviewedOn: z.coerce.date().optional(),
     lang: z.enum(["en", "hi-Latn"]).default("en"),
   }),
 });

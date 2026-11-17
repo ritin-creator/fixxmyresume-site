@@ -1,5 +1,6 @@
 ---
 title: "LinkedIn Profile vs Resume: What's Different and What Must Match"
+seoTitle: "LinkedIn Profile vs Resume: Differences and Must-Match"
 description: "How your LinkedIn profile and resume should differ in tone and length, which facts must match exactly, and how to turn your LinkedIn into a resume."
 answer: "Your resume is a short, tailored document for one job; your LinkedIn profile is a longer, searchable public version written in a more personal voice. Job titles, employers and dates must match exactly between them. Use LinkedIn's headline and About section for keywords and story, and keep the resume tight and achievement-led."
 region: global

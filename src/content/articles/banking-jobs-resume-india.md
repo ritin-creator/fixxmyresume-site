@@ -1,5 +1,6 @@
 ---
 title: "Resume for Banking Jobs in India (Private Banks, NBFCs and Fintech)"
+seoTitle: "Resume for Banking Jobs in India: Banks, NBFCs, Fintech"
 description: "How to write a resume for private bank, NBFC and fintech roles such as relationship manager, sales officer, credit analyst and operations, with sample bullets."
 answer: "For private banking, NBFC and fintech roles, show the numbers banks track: targets achieved, accounts or loans sourced, book size, cross-sell, collections, compliance and customer satisfaction. Name the products (CASA, home loans, gold loans, credit cards, mutual funds) and certifications such as NISM or IRDAI where relevant."
 region: india

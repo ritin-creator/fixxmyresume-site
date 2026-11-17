@@ -1,6 +1,7 @@
 ---
 title: "Resume for IT Services Jobs in India (Mass Recruiters and Off-Campus Drives)"
-description: "How to write a resume for IT services companies and off-campus drives in India: eligibility details, skills, projects, certifications and what to prepare for interviews."
+seoTitle: "Resume for IT Services Jobs and Off-Campus Drives"
+description: "How to write a resume for IT services companies and off-campus drives in India: eligibility details, skills, projects, certifications and interview prep."
 answer: "IT services employers hire freshers in large numbers and screen first on eligibility (degree, year, marks, backlogs), then tests and interviews. Your resume should state those details clearly, list core skills (a programming language, SQL, data structures, OOP), two or three projects you can explain, any internship, and certifications. Keep it one page and honest, because interviews go line by line."
 region: india
 category: examples-by-role

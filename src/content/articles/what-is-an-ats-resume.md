@@ -1,5 +1,6 @@
 ---
 title: "What Is an ATS Resume? How Applicant Tracking Systems Read Your CV"
+seoTitle: "What Is an ATS Resume? How ATS Software Reads Your CV"
 description: "An ATS resume is formatted so applicant tracking software can read it correctly. Learn how ATS parse resumes, what breaks them and what recruiters search for."
 answer: "An ATS resume is a resume formatted so an applicant tracking system can read it accurately: one column, standard headings like Experience and Education, contact details in the body, plain fonts, no tables or images, and the keywords from the job description. The ATS stores your details so recruiters can search and filter candidates."
 region: global

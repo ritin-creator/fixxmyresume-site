@@ -1,6 +1,7 @@
 ---
 title: "Resume for Retail and Store Jobs in India (Sales Associate to Store Manager)"
-description: "Resume tips and examples for retail jobs in India: sales associate, cashier, store supervisor and store manager, built on sales, footfall, inventory and team numbers."
+seoTitle: "Retail Store Job Resume for India: Associate to Manager"
+description: "Resume examples for retail jobs in India: sales associate, cashier, store supervisor and store manager, built on sales, footfall, inventory and team numbers."
 answer: "A retail resume should show what you sold and how well: daily or monthly sales, average bill value, conversion, customer feedback, inventory accuracy and shrinkage, plus team size for supervisors and managers. Mention the store format (supermarket, apparel, electronics, pharmacy), billing systems used, languages and shift flexibility."
 region: india
 category: examples-by-role

@@ -1,6 +1,7 @@
 ---
 title: "LinkedIn Profile Tips for Indian Job Seekers (Freshers and Experienced)"
-description: "Make your LinkedIn profile work for jobs in India: headline, photo, About section, experience, skills, Open to Work, recommendations and connecting with recruiters."
+seoTitle: "LinkedIn Profile Tips for Job Seekers in India"
+description: "Make your LinkedIn profile work for jobs in India: headline, photo, About, experience, skills, Open to Work, recommendations and reaching recruiters."
 answer: "Use a professional photo, a headline with your target role and key skills, an About section of 3–5 short paragraphs with results, experience entries that match your resume exactly, 10+ relevant skills, and the Open to Work setting for recruiters. Connect with people in your target companies and post occasionally about your work."
 region: india
 category: job-portals-and-linkedin

@@ -1,6 +1,6 @@
 ---
 title: "Should You Mention CTC and Expected CTC on Your Resume?"
-description: "Whether to write current CTC and expected CTC on a resume in India, where to share them instead, how to calculate CTC, and how to answer the expected salary question."
+description: "Should current and expected CTC go on your resume in India? Where to share them instead, how to calculate CTC, and how to answer the salary question."
 answer: "Usually no. Keep current and expected CTC off your resume and share them in the job portal's salary fields, the application form or your email to the recruiter, because they change by role and can anchor the offer. If a recruiter or employer explicitly asks for them on the resume, add one line at the end."
 region: india
 category: formats-and-templates

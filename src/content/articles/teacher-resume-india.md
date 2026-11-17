@@ -1,5 +1,6 @@
 ---
 title: "Teacher Resume Example for Schools in India (CBSE, ICSE, State Boards)"
+seoTitle: "Teacher Resume Example for Schools in India"
 description: "A teacher resume example for Indian schools: qualifications (B.Ed, CTET), subjects and classes taught, results, activities and the skills principals look for."
 answer: "A teacher's resume in India should list qualifications first (degree, B.Ed, CTET/TET or other eligibility), then teaching experience with board, subjects, classes and results, plus co-curricular roles, training and digital teaching skills. Show outcomes such as pass rates, average scores or competition results, not only duties."
 region: india

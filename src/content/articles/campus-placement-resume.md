@@ -1,5 +1,6 @@
 ---
 title: "Campus Placement Resume: How to Get Shortlisted in Your College Drive"
+seoTitle: "Campus Placement Resume: How to Get Shortlisted"
 description: "Write a campus placement resume that clears shortlisting: what recruiters check, your college format, CGPA, projects, internships and leadership roles."
 answer: "Campus placement resumes are usually screened on CGPA cut-offs, then on projects, internships and positions of responsibility. Follow your college's template if it has one, put CGPA and backlogs clearly, describe two or three projects and internships with tools and results, and add one or two leadership roles with numbers. Keep it to one page."
 region: india

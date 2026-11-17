@@ -1,6 +1,6 @@
 ---
 title: "B.Tech Fresher Resume Example (CSE, IT, ECE, Mechanical)"
-description: "A B.Tech fresher resume example with sections, sample project and internship bullets for CSE, IT, ECE and mechanical students, and the skills recruiters filter for."
+description: "A B.Tech fresher resume example with sections, sample project and internship bullets for CSE, IT, ECE and mechanical, and the skills recruiters filter for."
 answer: "A B.Tech fresher resume should fit one page and lead with a two-line summary, then skills, two or three technical projects with tools and results, internships, education with CGPA and class XII/X marks, and certifications or coding achievements. Tailor the skills and projects to the branch and the role."
 region: india
 category: examples-by-role

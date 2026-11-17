@@ -1,5 +1,6 @@
 ---
 title: "How to Make a Resume in Google Docs (ATS-Friendly, Step by Step)"
+seoTitle: "How to Make an ATS-Friendly Resume in Google Docs"
 description: "Build a clean, ATS-friendly resume in Google Docs from a blank page: margins, fonts, headings, bullets, and downloading a proper PDF."
 answer: "Start from a blank Google Doc rather than a two-column template. Set 0.5–0.75 inch margins, use Arial or Calibri at 10.5–11 pt, type your name and contact details in the body, use Heading 2 for section titles, add bullets for achievements, then use File > Download > PDF document. Check the PDF by selecting its text."
 region: global

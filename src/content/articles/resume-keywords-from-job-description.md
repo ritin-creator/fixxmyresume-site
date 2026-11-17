@@ -1,5 +1,6 @@
 ---
 title: "Resume Keywords: How to Find Them in a Job Description and Use Them"
+seoTitle: "Resume Keywords: Find and Use Them From a Job Ad"
 description: "Find the keywords recruiters and ATS search for in any job description, place them in your resume naturally, and avoid keyword stuffing."
 answer: "Copy the job description, mark the job title, tools, skills, certifications and repeated phrases, then use the ones that truly apply to you in your summary, skills section and experience bullets, in the employer's exact wording. Spell out acronyms once. Don't hide keywords in white text or list skills you can't back up."
 region: global

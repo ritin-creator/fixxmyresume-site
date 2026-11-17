@@ -1,5 +1,6 @@
 ---
 title: "Chartered Accountant (CA) Resume Example for Industry and Practice"
+seoTitle: "Chartered Accountant (CA) Resume Example"
 description: "A CA resume example for newly qualified and experienced chartered accountants, with bullets for audit, tax, FP&A and controllership roles."
 answer: "A CA resume should state your qualification year and any rank up front, then lead with the area you're targeting (audit, tax, FP&A, controllership or advisory). Use bullets that show scale (client size, turnover, entities) and outcomes (closes shortened, savings, audits delivered), and list systems like SAP, Oracle, Tally or Zoho plus standards such as Ind AS and IFRS."
 region: india

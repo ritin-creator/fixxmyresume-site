@@ -1,6 +1,7 @@
 ---
 title: "Field Sales Executive Resume Example (FMCG, Fintech, Telecom)"
-description: "Field sales executive resume example with bullets for FMCG, fintech merchant onboarding and telecom: targets, outlets, territory, collections and the skills to list."
+seoTitle: "Field Sales Executive Resume Example (FMCG, Fintech)"
+description: "Field sales executive resume example with bullets for FMCG, fintech merchant onboarding and telecom: targets, outlets, territory, collections and skills."
 answer: "A field sales executive resume should lead with numbers: target achievement, outlets or merchants added, territory covered, monthly sales volume and collections. Mention the products and channels (general trade, modern trade, merchant onboarding, SIM or broadband sales), languages spoken, two-wheeler and licence if the job needs travel, and any rankings or awards."
 region: india
 category: examples-by-role

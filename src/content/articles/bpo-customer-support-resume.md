@@ -1,5 +1,6 @@
 ---
 title: "BPO and Customer Support Resume for India (Voice, Chat, Non-Voice)"
+seoTitle: "BPO Resume for India: Voice, Chat and Non-Voice Roles"
 description: "A BPO resume for freshers and experienced agents in India: voice and non-voice processes, languages, shifts, typing speed and the metrics team leaders check."
 answer: "A BPO or customer support resume should state the process type (voice, chat, email, back office), the domain (telecom, banking, e-commerce, travel), languages, shift and night-shift flexibility, typing speed for non-voice roles, and performance metrics like calls per day, CSAT, quality score and average handle time."
 region: india

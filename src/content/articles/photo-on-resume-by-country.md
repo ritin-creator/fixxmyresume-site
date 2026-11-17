@@ -1,5 +1,6 @@
 ---
 title: "Should You Put a Photo on Your Resume? A Country-by-Country Guide"
+seoTitle: "Photo on Your Resume? A Country-by-Country Guide"
 description: "Whether to add a photo to your resume or CV depends on the country. See the norm for the US, UK, India, Europe, the Gulf and Asia, and when to skip it."
 answer: "In the US, UK, Canada, Ireland and Australia, leave the photo off: it isn't expected and employers avoid it to prevent bias. In much of continental Europe, the Gulf states and East Asia, a professional photo is common or expected. In India it's optional for corporate jobs and usually better left off unless the employer asks."
 region: global

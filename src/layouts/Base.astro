@@ -13,11 +13,14 @@ interface Props {
   lang?: string;
   published?: Date;
   updated?: Date;
+  ogImage?: string;
 }
-const { title, description, type = "website", jsonLd = [], noindex = false, lang = "en", published, updated } = Astro.props;
+const { title, description, type = "website", jsonLd = [], noindex = false, lang = "en", published, updated, ogImage: og } = Astro.props;
 const canonical = new URL(Astro.url.pathname, site.url).href;
-const ogImage = new URL("/og.png", site.url).href;
-const fullTitle = title.includes(site.name) ? title : `${title} | ${site.name}`;
+const ogImage = new URL(og ?? "/og.png", site.url).href;
+// Add the brand only when the whole title still fits Google's ~60-character limit.
+const branded = `${title} | ${site.name}`;
+const fullTitle = title.includes(site.name) || branded.length > 60 ? title : branded;
 ---
 <!doctype html>
 <html lang={lang === "hi-Latn" ? "hi-Latn" : "en-IN"}>
@@ -46,6 +49,7 @@ const fullTitle = title.includes(site.name) ? title : `${title} | ${site.name}`;
     {published && <meta property="article:published_time" content={published.toISOString()} />}
     {updated && <meta property="article:modified_time" content={updated.toISOString()} />}
     {jsonLd.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
+    {site.analyticsToken && <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: site.analyticsToken })}></script>}
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>

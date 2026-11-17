@@ -1,6 +1,7 @@
 ---
 title: "Should You Put Date of Birth, Marital Status or a Photo on an Indian Resume?"
-description: "Which personal details to include on a resume in India: date of birth, gender, marital status, religion, father's name, address, photo, languages and nationality."
+seoTitle: "Personal Details on an Indian Resume: DOB, Photo, More"
+description: "Which personal details belong on a resume in India: date of birth, gender, marital status, religion, father's name, address, photo, languages, nationality."
 answer: "For private-sector jobs in India, include only your name, phone, email, city and LinkedIn. Leave out date of birth, gender, marital status, religion, caste, father's name, full address and photo unless the employer specifically asks. Languages known can go in skills. Government forms and some overseas employers collect more details separately."
 region: india
 category: formats-and-templates

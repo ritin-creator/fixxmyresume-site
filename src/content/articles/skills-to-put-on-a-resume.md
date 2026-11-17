@@ -1,5 +1,6 @@
 ---
 title: "Skills to Put on a Resume: 100+ Hard and Soft Skills by Field"
+seoTitle: "Skills to Put on a Resume: 100+ Hard and Soft Skills"
 description: "A list of hard and soft skills for your resume by field, how many to include, how to pick the right ones from a job description and how to prove them."
 answer: "List 8 to 15 skills that the job description asks for and that you can prove, mostly hard skills like tools, software, languages and methods. Show soft skills such as communication or leadership through results in your experience bullets rather than just listing them."
 region: global

@@ -1,6 +1,7 @@
 ---
 title: "Skills for a Fresher Resume in India: What to List for Each Field"
-description: "Technical and soft skills to put on a fresher resume in India, by field: IT, commerce, marketing, HR, engineering, customer support and sales, with how to prove each."
+seoTitle: "Skills for a Fresher Resume in India, by Field"
+description: "Technical and soft skills for a fresher resume in India by field: IT, commerce, marketing, HR, engineering, support and sales, with how to prove each one."
 answer: "Freshers should list 8–12 skills that the job description mentions and that they can demonstrate: tools and software (Excel, Tally, Java, SQL, Canva), domain knowledge (GST basics, digital marketing), and languages. Prove soft skills like communication or teamwork through projects and activities instead of listing them alone."
 region: india
 category: freshers-and-students

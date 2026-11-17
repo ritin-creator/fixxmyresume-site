@@ -1,5 +1,6 @@
 ---
 title: "How to Quantify Achievements on Your Resume (Even Without Data)"
+seoTitle: "How to Quantify Achievements on Your Resume"
 description: "Turn duties into measurable resume achievements. Seven kinds of numbers to look for, how to estimate honestly, and examples for jobs that don't seem measurable."
 answer: "Add a number to each bullet that shows scale or result: how much, how many, how often, how fast, or how much better. If you don't have exact data, use honest estimates ('about 30 calls a day'), ranges, team size, budget, frequency or rankings. Never invent a figure you couldn't explain in an interview."
 region: global

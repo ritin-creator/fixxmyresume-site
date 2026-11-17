@@ -1,6 +1,7 @@
 ---
 title: "How to Use ChatGPT or AI to Write Your Resume Without Sounding Generic"
-description: "Use ChatGPT, Gemini or Claude to draft and improve your resume while keeping it specific and truthful: prompts that work, what to check, and what to never let AI do."
+seoTitle: "How to Use ChatGPT to Write Your Resume (Without Clichés)"
+description: "Use ChatGPT, Gemini or Claude to draft and improve your resume while keeping it specific and true: prompts that work, what to check, what never to let AI do."
 answer: "Give the AI your real facts, the target job description and clear rules: no invented numbers, employers or skills, plain language, bullets starting with a verb. Ask it to rewrite one section at a time, then check every line against your actual work and replace generic phrases with specifics. Never paste in confidential employer data."
 region: global
 category: resume-writing

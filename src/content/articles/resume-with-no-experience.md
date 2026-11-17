@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Resume With No Work Experience"
-description: "No work experience? Build a strong first resume from education, projects, internships, volunteering and part-time work, with a sample layout and example bullets."
+description: "No work experience? Build a strong first resume from education, projects, internships, volunteering and part-time work, with a sample layout and bullets."
 answer: "Lead with a short summary of the role you want, then education, then projects, internships, volunteering, freelance work or part-time jobs written as achievements with numbers. Add skills that match the job and any certifications. Keep it to one page and make every line show something you did."
 region: global
 category: freshers-and-students

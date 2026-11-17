@@ -1,6 +1,6 @@
 ---
 title: "Project Manager Resume Example: Scope, Budget and Delivery"
-description: "A project manager resume example with bullets that show scope, budget, timeline and outcomes for IT, construction and operations projects, plus certifications to list."
+description: "A project manager resume example with bullets showing scope, budget, timeline and outcomes for IT, construction and operations projects, plus certifications."
 answer: "A project manager resume should show the scale and results of the projects you delivered: budget, team size, timeline, and whether it finished on time and on budget, plus the business outcome. Name the methods (Agile, Scrum, Waterfall, PRINCE2) and certifications (PMP, CSM) that the job asks for."
 region: global
 category: examples-by-role

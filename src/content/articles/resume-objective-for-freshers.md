@@ -1,6 +1,7 @@
 ---
 title: "Resume Objective for Freshers: 25 Examples That Aren't Generic"
-description: "Career objective examples for fresher resumes in India by field: engineering, IT, commerce, MBA, BBA, science, arts, nursing and customer support, plus what to avoid."
+seoTitle: "Resume Objective for Freshers: 25 Examples"
+description: "Career objective examples for fresher resumes in India by field: engineering, IT, commerce, MBA, BBA, science, arts, nursing and support, and what to avoid."
 answer: "A good fresher objective is one or two lines naming the exact role you want, your degree, and one specific strength or result, for example: 'B.Com graduate seeking an accounts executive role, with a 6-month internship processing 300+ invoices in Tally Prime.' Avoid generic lines about a 'reputed organisation' and 'growth'."
 region: india
 category: freshers-and-students

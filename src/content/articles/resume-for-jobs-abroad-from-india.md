@@ -1,5 +1,6 @@
 ---
 title: "Resume for Jobs Abroad From India: US, UK, Canada, Gulf, Europe, Australia"
+seoTitle: "Resume for Jobs Abroad From India: US, UK, Gulf & More"
 description: "Adapt an Indian resume for jobs abroad: length, photo, personal details, salary and wording for the US, UK, Canada, Gulf, Germany, Australia and Singapore."
 answer: "Adapt your Indian resume to each country: one page for the US, two pages for the UK, Canada and Australia, no photo or date of birth in the US, UK, Canada and Australia, photo and nationality common in the Gulf and Germany. Convert grades and salaries into terms locals understand, state your visa or work authorisation status, and use the local word (resume or CV)."
 region: india

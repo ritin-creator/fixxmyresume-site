@@ -1,6 +1,7 @@
 ---
 title: "Resume Formats Compared: Chronological vs Functional vs Hybrid"
-description: "Which resume format should you use? Compare chronological, functional and hybrid (combination) formats, with who each suits and how ATS and recruiters treat them."
+seoTitle: "Chronological vs Functional vs Hybrid Resume Formats"
+description: "Which resume format should you use? Chronological, functional and hybrid formats compared: who each suits and how ATS and recruiters treat them."
 answer: "Use reverse-chronological for almost everyone: it lists recent jobs first and is what recruiters and ATS expect. A hybrid (combination) format, with a skills summary on top and a full work history below, suits career changers and people with gaps. Avoid a pure functional format; it hides dates, parses poorly and makes recruiters suspicious."
 region: global
 category: formats-and-templates

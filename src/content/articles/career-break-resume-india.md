@@ -1,6 +1,7 @@
 ---
 title: "Returning to Work After a Career Break: Resume Guide for India"
-description: "How to write a resume after a career break for marriage, maternity, caregiving, relocation or health in India: showing the gap, updating skills and returnship programmes."
+seoTitle: "Resume After a Career Break: Guide for India"
+description: "Resume after a career break in India (marriage, maternity, caregiving, relocation or health): how to show the gap, refresh skills and find returnships."
 answer: "List the break honestly in your timeline as one neutral line, such as 'Career break: family responsibilities, 2023–2025', lead with a summary that names your target role and prior experience, show courses, freelance work or volunteering during the break, and refresh your skills section with current tools. Look for company returnship and second-career programmes, which are designed for this."
 region: india
 category: career-situations

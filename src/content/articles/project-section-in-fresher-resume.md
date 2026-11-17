@@ -1,5 +1,6 @@
 ---
 title: "How to Write the Projects Section in a Fresher Resume (With Examples)"
+seoTitle: "Projects Section in a Fresher Resume (With Examples)"
 description: "Write a projects section that gets freshers shortlisted: which projects to pick, a four-part format, and examples for IT, commerce, marketing and engineering."
 answer: "Pick two or three projects closest to the job, and for each give a title, the tools used, two bullets on what you built or analysed and the result (users, accuracy, time saved, marks, money), plus a link if it's online. Be ready to explain every project in detail in interviews."
 region: india

@@ -2,7 +2,7 @@
 import Base from "../layouts/Base.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
-import { site, links } from "../site";
+import { site, founder, links } from "../site";
 
 const all = (await getCollection("articles")).sort((a, b) => +b.data.published - +a.data.published);
 const pick = (id: string) => all.find((a) => a.id === id);
@@ -27,8 +27,22 @@ const faq = [
 ];
 
 const jsonLd = [
-  { "@context": "https://schema.org", "@type": "Organization", name: site.name, legalName: site.operatedBy, url: site.url, logo: `${site.url}/favicon.svg`, email: site.supportEmail },
-  { "@context": "https://schema.org", "@type": "WebSite", name: site.name, url: site.url },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${site.url}/#org`,
+    name: site.name,
+    alternateName: ["Fixx My Resume", "fixxmyresume.com"],
+    legalName: site.operatedBy,
+    url: site.url,
+    logo: `${site.url}/favicon.svg`,
+    email: site.supportEmail,
+    description: "FixxMyResume (double x) is an Indian AI resume checker and rewriter: a free ATS score out of 100, and an ATS-friendly resume for ₹99 written only from the candidate's own facts.",
+    founder: { "@type": "Person", "@id": `${site.url}/about/#founder`, name: founder.name, url: founder.url },
+    address: { "@type": "PostalAddress", addressLocality: "Noida", addressRegion: "Uttar Pradesh", addressCountry: "IN" },
+    ...(site.sameAs.length ? { sameAs: site.sameAs } : {}),
+  },
+  { "@context": "https://schema.org", "@type": "WebSite", "@id": `${site.url}/#website`, name: site.name, url: site.url, publisher: { "@id": `${site.url}/#org` }, inLanguage: "en-IN" },
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
@@ -47,7 +61,7 @@ const jsonLd = [
     <div class="wrap hero-grid">
       <div>
         <span class="pill">Free check · No sign-up</span>
-        <h1>Your resume, fixed for ATS and AI screening.</h1>
+        <h1>Free ATS resume check. Your resume fixed for ₹{site.priceInr}.</h1>
         <p class="lead">Upload your old resume or LinkedIn profile. See your score out of 100 and exactly what's wrong. Then get an ATS-friendly resume for ₹{site.priceInr}, written only from your own facts.</p>
         <div class="hero-actions">
           <a class="btn" href={links.check}>Check my resume free</a>
