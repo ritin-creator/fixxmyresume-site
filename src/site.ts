@@ -12,6 +12,8 @@ export const site = {
   locale: "en_IN",
   // Cloudflare Web Analytics (cookie-free). Public token, safe to commit.
   analyticsToken: "1bbdce58a79c4544971a96f535c5e632",
+  // Meta Pixel "Fixxmyresume". Loads only after the visitor accepts cookies (consent shared with the app via a .fixxmyresume.com cookie).
+  metaPixelId: "1143789911874305",
   // Official profiles (LinkedIn company page, X, YouTube...). Added to Organization schema as sameAs.
   sameAs: [] as string[],
 };
